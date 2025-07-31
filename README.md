@@ -99,15 +99,27 @@ A modern, feature-rich cold calling directory application designed specifically 
 
 ## 📁 Sample Data
 
-The repository includes sample lead lists in the `Lead-Lists/` folder:
-- **leads.json** - Main sample dataset with pressure washing companies
-- **leads (1-4).json** - Additional sample datasets for testing
+**⚠️ SECURITY NOTE:** Sample data files are excluded from the repository for privacy and security reasons. They may contain API keys and real business information.
 
-These files contain real business data formatted for the application, including:
-- Company names and contact information
-- Google ratings and review counts
-- Business addresses with automatic state extraction
-- Operational status and hours
+To test the application:
+1. **Create your own sample data** using the supported JSON format
+2. **Use the Google Places API format** shown in the documentation
+3. **Remove any API keys** from data before sharing
+
+Sample data format:
+```json
+[
+  {
+    "name": "Example Company",
+    "address": "123 Main St, City, ST 12345, United States",
+    "rating": 4.5,
+    "totalRatings": 100,
+    "phoneNumber": "(555) 123-4567",
+    "website": "https://example.com",
+    "businessStatus": "OPERATIONAL"
+  }
+]
+```
 
 ## 🎯 Usage Guide
 

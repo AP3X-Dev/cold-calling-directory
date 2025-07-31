@@ -101,3 +101,9 @@ data/
 uploads/
 user-data/
 *.json.backup
+
+# Lead lists with potentially sensitive data
+Lead-Lists/
+lead-lists/
+sample-data/
+*.leads.json
