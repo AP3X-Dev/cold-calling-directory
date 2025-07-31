@@ -25,12 +25,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/cold-calling-directory.git"
+    "url": "https://github.com/AP3X-Dev/cold-calling-directory.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/cold-calling-directory/issues"
+    "url": "https://github.com/AP3X-Dev/cold-calling-directory/issues"
   },
-  "homepage": "https://github.com/your-username/cold-calling-directory#readme",
+  "homepage": "https://github.com/AP3X-Dev/cold-calling-directory#readme",
   "engines": {
     "node": ">=16.0.0",
     "npm": ">=8.0.0"

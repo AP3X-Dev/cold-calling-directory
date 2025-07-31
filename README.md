@@ -137,6 +137,18 @@ A modern, feature-rich cold calling directory application designed specifically 
 - **Safari**: 14+
 - **Edge**: 90+
 
+## 🔗 GitHub Repository
+
+**Repository:** [https://github.com/AP3X-Dev/cold-calling-directory](https://github.com/AP3X-Dev/cold-calling-directory)
+
+### Quick Clone
+```bash
+git clone https://github.com/AP3X-Dev/cold-calling-directory.git
+cd cold-calling-directory
+npm install
+npm run dev
+```
+
 ## 🤝 Contributing
 
 1. Fork the repository
