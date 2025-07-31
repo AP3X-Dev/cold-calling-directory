@@ -1,0 +1,46 @@
+{
+  "name": "cold-calling-directory",
+  "version": "1.0.0",
+  "description": "A modern cold calling directory application for pressure washing companies with advanced filtering, power dialer, and data management features.",
+  "type": "module",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite",
+    "serve": "vite preview",
+    "package": "node prepare-package.js"
+  },
+  "keywords": [
+    "cold-calling",
+    "directory",
+    "pressure-washing",
+    "sales",
+    "crm",
+    "power-dialer",
+    "business-directory"
+  ],
+  "author": "Cold Calling Directory Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/cold-calling-directory.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/cold-calling-directory/issues"
+  },
+  "homepage": "https://github.com/your-username/cold-calling-directory#readme",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
