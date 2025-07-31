@@ -61,6 +61,10 @@ A modern, feature-rich cold calling directory application designed specifically 
    - Navigate to `http://localhost:5173`
    - The application will automatically open
 
+5. **Try Sample Data** (Optional)
+   - Import any file from the `Lead-Lists/` folder to test the application
+   - These contain real business data formatted for the application
+
 ## 📁 Supported Data Formats
 
 ### Google Places API Format
@@ -93,10 +97,22 @@ A modern, feature-rich cold calling directory application designed specifically 
 ]
 ```
 
+## 📁 Sample Data
+
+The repository includes sample lead lists in the `Lead-Lists/` folder:
+- **leads.json** - Main sample dataset with pressure washing companies
+- **leads (1-4).json** - Additional sample datasets for testing
+
+These files contain real business data formatted for the application, including:
+- Company names and contact information
+- Google ratings and review counts
+- Business addresses with automatic state extraction
+- Operational status and hours
+
 ## 🎯 Usage Guide
 
 ### Getting Started
-1. **Upload Data**: Use the "Upload JSON File" button to import your company list
+1. **Upload Data**: Use the "Upload JSON File" button to import your company list (try the sample files!)
 2. **Filter Companies**: Use the filter dropdowns to narrow down your list
 3. **Start Calling**: Click "Open in Power Dialer" on any company or switch to Dialer view
 
