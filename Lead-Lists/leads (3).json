@@ -1,0 +1,1532 @@
+[
+  {
+    "name": "Aqua Pressure Cleaning",
+    "address": "525 Conway Rd #49, Orlando, FL 32807, United States",
+    "rating": 4.9,
+    "totalRatings": 117,
+    "status": "Closed",
+    "placeId": "ChIJKTtsO2Ki54gRUtyMQKSaADY",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.5365844,
+    "longitude": -81.3292866,
+    "plusCode": "76WWGMPC+J7",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 504-2508",
+    "internationalPhoneNumber": "+1 407-504-2508",
+    "website": "https://sites.google.com/aquapressurecleaningfl.com/aquapressurecleaningfl/home",
+    "googleMapsUrl": "https://maps.google.com/?cid=3891280108296395858",
+    "weekdayText": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: Closed"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpezl4OgcNSCra3Us8bOLyPXASUL7J9xnLXpIRcDsMLL3b1PF1krxGAHwCe8nPJVZImPSsH939zGTZn-4nHPL5ZQQnxKVDfHmJ5vkKclbwurrhSsbUS8Nf5u0Lvd-KoXTa7OrnVvAKRQAFW1aRy4lq2-7ES2WgveRbP3daFX0zCc6q2Cl9O41tXgJ_Tpw2fjW2yfFEEDHkf1BwiSjH5caV6t54DzPhcGQU9qWKtpq9x-NkrrmocisnOHQ3orQv5c52wMNlf6rsMrvw8WOhIJG04fdQsay9FQhpdwbnN91m3K7g&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=71688",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeaYfmhuxJnx0z7zlGRyxhVd89S66JfBykKxBiZ3pAHw-TcLzDLOthwqmUiCQdXdqNQMnl5nsO1EahK1TEU_0jvrJhRh228BRHpHNRL9H2xX1VgMTtlX4qTtyBpgOSjUan2J-mPPSlU3eMPD6YxcmVcqmw4Cin9arAP0_v-V1DjXWkCkK6NiygN-GFBCO1uHyJisPGdyRTAO7ea1OtPrHgQ53uaJrhGY98Ku5EC3Hnm1Zo65jFX6m91wXw_5XkWLK5XQPk-nUSLreuxAmkzRLLjNVKEUtRfUmO630XHQClHEA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=29520",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeDv32eyJoP9E2aAPrjkKU9fZ-eKxpwOCT4d3LbJZ-uWeASmKVyJ2Yk0h2xFOLud2NRaA_qB-UObPLNdDjOau9gQ6RVU4OR8nFgo75kOpM7kLshMnwyg1Uqtcmny09dktc6ft2KCGh9d5dvBEOHJMkHYSN42FNG0Xn57GvTjBV4S5iajlDlYxO-scrpE6cM5sxzm0-l_U_ki4EEbK4UnbmP3kZxyHHwBK2XFKHiOAr2jlKBqh47Oxz2WREalzNEo4chCVmMBZj5l87FJ0Jr1hPe9Vw8n0CKG_p0E8Kg90M5Tw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=130628",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpc6W6BM65nXHArSuBd0UM3mKPCtcFaQhCcuJQ_zwHYfSDpL4C9sFxKEIeT7zjEvYsLGPbyRRVc0SBWGmD6Dq0ehg7f5gOvtPk1TPA_jDUEthUou-SyUMnJwBFaVGPvjr8nqK0BmoCzSYQws9UTiLbncKtFaRMPvb-JZwqSMex4h778jQuUhG9mn6b5U4xn3IXnvXvSdNLwMh0561ylOuE0UTH1mzpEPOWU_hmcAnviZqAijpCTDpl4zgCNcA7dwLFAgh4Iuac9jkMb1RXyOEiIFDG3kzbtRIMD9r0Hm93AjDQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=40527",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdbt7Z5zbtb8lz3J40AcM6w5H-pKnLNrCRmPm7e-Z0cMhWhvt518s524jJbBCTt0-vQ6W0G2Srd3HxjlyXyipoV1ARb5sRCV4SVWiryxd85ohZLpqeagUk0Uhst8pODgvfnfuYyc4q2Qt35LkUxBCQj_JK2skkhow5MQO3WNMxW0zUKyLGHs3lQUpkXeYRwNHAsoF-5WiMjWDU_3s6BdoV93WnlC6RikVRo4i0cr3VGwCCQie4-MOwXCXGakwqoO--WQYCO6CjNDxPMsalyt82IeU4mYnvsqaGuToILQpumDw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=102247",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpePcTgruq8-tdzXx_7n_TH_hgibToY5uUkK0NGkQxRjArHagrMdsJ3oNrFMWhzS2S5RwQfNcpOz7Rrp3gHVXSc78WX7JG8y0iU4cN-mRDtg4RC9k_to3Py7HDdr7X2kVswYSiI-e0tyw6_saA24hg07SmdeiOINU-PACuEBWirmQysRDKha6tBIVASHq7M6KF2BEWzFu7w-yc0Ux0UDDwADzfOFONZUcn9WZBuchBU5hEhQXEKv2Fgbb0SeR_oX2z6eZJM9_8ay87TjUe_KfH-e0YpLEir99AOfmz9hN-XJgw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=130848",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcQ1ioxCviXiqzkdLuKBf-DLFS-_PDm7jgFVJZDtRZNPdajQMD4vX4tzi4_Mqv0xyFg_ZdSo5VRRP5A30yI81U7fqm3qPzL-VYjWV1xps8RxXD4enE7ARzpNZ826I71tnYqQE1Kz2ojYc_imbR0sFQaJqWmxjMjHl8bsC4yujaBVfNDLQV3_f-vZvxFu75VlzqEeZ-kil9Ds9ynYznc2of7rEEDFmoTjd9fts5ODjD87jCZgSPaNdcWYYCLQl85MFCY5DTqGQZitZYA223uNONJscqrlJ_8hjh6R39e1Z5DyQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=58696",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpepzLcPJdmMPyaDXi_78KqcWYDLwIGGwYjs2_k6W41mhxSYGqGS1huXVFsDxTzK0R9splATkXBm3A0P0LBu8mi1DfRPetsflTmjurnrJOyw4Ot8_3WeRmTi9T--dseIE2aI8vknEq3NB02fpLIPc5a8v_zWgz4x7wp1mIDWOQrSau1mWckbYRHlhNK68DC8IIkSsoeNv5EJxqn2eUgw7es7Nno6IfmVKKUrz0MWv5hKRQk0ake65zkgtNLq0LyoD_zBtu499PWaDiWrGznl4GuyjiX4xuJ4DDGf0wvHTd-Llg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=23828",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdKByEvn5_rYNeBW39tR9WvxS7ibkmgO-aKeBl7_p_-aG2nAk9xZBecYF8trxUaExR-ZH8QZhmvR5MVpz7s9Q-cuYrGE7ROscaQy-pRUtaF2UOdFAeTi7I6kp-qcabia2p5pY3n-4yYuv_3QEZj3dVYtLUfxSNlI5WDp3c8LWBo_CnN27FqCbcIgxm3u0wPQyznG_Fkbpl-dbfqkExwLL9J8j0nOfi5-XKgd8_He-bATJmLmxqs7U8bOFkc1jMoqNyVM4uiLkThgqDy9WGNXLfPn75PIYVfySr8LOiMxH6xNg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=116994",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdCedeQq966XoJeDGHATy9DHAFZEntvDTaCnVu8JeNgH7R-hMAq1GP4oBFCSsms1hu7NTV7W2SP232lWHUAdbx_QcZqgr8jOrraKnfzT_9wmwuKvBwJrfZVdJhfgbMpmx2CDNwfHtNPtYHww0ne599vPWVpZyPeF86p_ZiB8MF-6ZSAwtgRvR1YUY2Jh_muUhAbkfzIXd8KYqOFyAq29LNcHITNqnIkr-U1qT90SKaAp-O8ejQDtby_8mUkSzQP-hJbkbghGPANpjYqa8bsJfdPw2KtB16YBSv0Nz4paRm4OA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=96501"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Chozo Ninpo",
+        "author_url": "https://www.google.com/maps/contrib/103303986770804631115/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXl51c8_jY_Y8y2SHukCVcac78forgzFyxcjVqTVh-SMYCpSmMK=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Always efficient and professional.  They definitely keep the HOA off of my back when it comes time to clean the driveway.\n\nCalling them back for sure to do the rest of the house!\n\nThanks guys!",
+        "time": 1723303514
+      },
+      {
+        "author_name": "Justin Dizon",
+        "author_url": "https://www.google.com/maps/contrib/114005214137211446159/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyV__MDRr19eMXW8pYGYFBw8b9b0T2-4CA0Sy1uQVmCUc0j1djnA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Amazing service and quality. They were quick to respond to my call and were able to schedule me in within a few days. Fair price for the quality of work. They had this done for a property I own and didn’t need me to be at the property. They sent me pics before and after the job, making it easy to pay. Would recommend!",
+        "time": 1724696514
+      },
+      {
+        "author_name": "Rebecca Rasmussen",
+        "author_url": "https://www.google.com/maps/contrib/109499234600975858830/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWO8VLbVFJEgujO_8Oz9TLRKVAyThyemzjkpcxO5cYcP1BtTlZT=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "My mom had them do the pressure washing at her house and she called to tell me how great they were and that they went above and beyond to make sure everything was cleaned. She said they were on time, very polite and did an excellent job of pressure washing the house.  All the trim and chimney were done too.  I highly recommend them.(She doesn’t have a google account so I’m writing this on her behalf.) Based on her review I will be calling them to pressure wash my house too!",
+        "time": 1724951093
+      },
+      {
+        "author_name": "Michael Dugan",
+        "author_url": "https://www.google.com/maps/contrib/100013600425736378194/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBXIAcAdVCW8aWwYcYTNuF84HDvx_VbGj7p1Zyktf6L0EB0w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Alan and Bob did a fantastic job on our pool deck and screen enclosure.  They were on-time and made a night-and-day difference with their cleaning.  We are very satisfied with the results and wouldn’t hesitate to contact them again in the future.",
+        "time": 1721943239
+      },
+      {
+        "author_name": "Celia Thomas",
+        "author_url": "https://www.google.com/maps/contrib/117531037593162423905/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8EPGInaHRRjbMIohVt4rhDfYyp48YaQxO0UbRzWPRFN8e6w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Aqua Pressure Cleaning did an outstanding job on my rather large patio. The price was fair, the service was friendly and excellent. Everything was done timely. I highly recommend them and will definitely use them again in the future.",
+        "time": 1713101992
+      }
+    ],
+    "recentReviewsText": "★★★★★ Chozo Ninpo (11 months ago): Always efficient and professional.  They definitely keep the HOA off of my back when it comes time to clean the driveway.\n\nCalling them back for sure to do the rest of the house!\n\nThanks guys!\n\n★★★★★ Justin Dizon (11 months ago): Amazing service and quality. They were quick to respond to my call and were able to schedule me in within a few days. Fair price for the quality of work. They had this done for a property I own and di...\n\n★★★★★ Rebecca Rasmussen (11 months ago): My mom had them do the pressure washing at her house and she called to tell me how great they were and that they went above and beyond to make sure everything was cleaned. She said they were on time, ...\n\n★★★★★ Michael Dugan (a year ago): Alan and Bob did a fantastic job on our pool deck and screen enclosure.  They were on-time and made a night-and-day difference with their cleaning.  We are very satisfied with the results and wouldn’t...\n\n★★★★★ Celia Thomas (a year ago): Aqua Pressure Cleaning did an outstanding job on my rather large patio. The price was fair, the service was friendly and excellent. Everything was done timely. I highly recommend them and will definit...",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "Orlando Pressure Washing and Paver Sealing Pros",
+    "address": "14556 St George's Hill Dr, Orlando, FL 32828, United States",
+    "rating": 5,
+    "totalRatings": 34,
+    "status": "Closed",
+    "placeId": "ChIJ-Y6NIDRn54gRsPCKSUrp45g",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.5253758,
+    "longitude": -81.1689761,
+    "plusCode": "76WWGRGJ+5C",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 913-1519",
+    "internationalPhoneNumber": "+1 407-913-1519",
+    "website": "http://www.orlandopressurepros.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=11016905618749059248",
+    "weekdayText": [
+      "Monday: 8:00 AM – 10:00 PM",
+      "Tuesday: 8:00 AM – 10:00 PM",
+      "Wednesday: 8:00 AM – 10:00 PM",
+      "Thursday: 8:00 AM – 10:00 PM",
+      "Friday: 8:00 AM – 10:00 PM",
+      "Saturday: 8:00 AM – 10:00 PM",
+      "Sunday: 8:00 AM – 10:00 PM"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdtBct7xAWkubE2r51sQhz3a35ShMif-7u_xY1BOcaQnAc0oezMFMGu8hLnM3lRH21aadeGW65_iE4oPAKshBWP4HQqrdB3yZ9jnfwWRNcLnm5unaEVN4lIawI1VN0S_n5SUp-2Uv3csiWFuJcEQFNFJCXtaaWt2TeR1To1WlSGl66DLx6B8Aw2Bdj-Mf-xpZ_rJOstfY8AZpBwc0obrIVemwOzcCEaGSBXVFUhrXquKHgvEWXf1F8E-2soZPEvwJfvSb3wQTF5uQA5TlC_3H2OfD_U3VNIztBwMrx6cb5xqQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=78552",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdyEmGHeplubMe3QoxmG0ngmbqH8fgObf9GV_z5gWt2o0-nSrfPKl0pn6pX-lR2boUt1GRwDgMixbaUtQFYX5K1eWQAWDSShSN9BQKg3rB6nH-3HApd-R1NZ-2XPbGlW2eMdop7ftSE74QUQAs_mLNm_IZxokOebg_SxatP69aMIF4HZk05gyPlS_2t4tPmyHDeKBo5YGSQFN8krzGXdtS37bIshruBRvAJ53evWc-D6VGS-n2sGfQzFVZ8AyQ-W51L0lA0q7eZ2O9FDChiL7RgoRfe4gqFmp6ioFBLoroX9A&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=36017",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpc3V9VKGkPnUYaUTSi1Wp8i0FdBjSOVnDTr2tbiNl_4DoZGy69UbbSLQDg-rcu4uzAUBzWlr7cJqUa-5i-SyU_iDkgODmGXvTeln6Gg0p4RWbykUYuy0RnvfulpAIxXpIWRYYx5UfF_R1FL6SDDJXGueD7vsqn-4n2LA0VzvgE2F6E-IRuYQ0uwjrdHVPWdDFMkOA7tnr8_rkcydw7LV--8IfFlRlKDpRzeyLKZkAJmM-p_IIri7qQbxAnq3LFpXIPpUTLAFmhYr0147Mp1mhsbXRoFInYWRtfAbqIH_l1nfA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=39584",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpck72T6DYXLJIh6vdOopbgwCioLsh8cNB5AQfsbcN14c4jp01LYqUx7t8uoFRj40KD_23xI-UDoW2A6y_oBmZTzA6VlosOWT-is7aadWE9td7GsZakNUSVoiRVMJ085joS5Ra6-TEHyFR3GdXBkXRdssH646qtvoVqbBuQcJH-727pLC-dkwVtamfDxUIMxaEF0dnJD6u6lGCBNaL1TRF91nZdtVjTTpLky7-_PVeIoEABLz4Vq1CZ3hST3dwA3hhCkthEWrHUIHhbSm4rDj2nN0pyb_wB4E5tNeHJuBlV3-g&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=64118",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfP1YCssxyxz567MJs1A3jdc8NjFKVzIxUXXP8_uB2XNPnvX3F6vS7QYFU2dGKH8VibqipuIHGVg3uEpg2u9rsjsDAV_GJg9XorKzBUgJbuwgxdBTHt6IsBbFtFIG3e3mPWxDLCy-UJa1nf6FZp8PTgFoIHWJv13ZGvIeyd4C93vOQcc62ZuXx68JVb0Y-ZQ5dSX5QiIZFb5q0bQYJslqPTvuao1wbFJ7zvmu6VonW05TZnEKqfeC_eLLBbNMewzd2ycKfPzuCg9ASfSd1qEbOMFxcK1YG3IwtGApC2nmqQxA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=129992",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdF38te29xRX-nKk4OL_C72ojFP5FE5RmWVx-zxuf0jpn13_K0KZbXu1QiA4wngK03FEXcUq-jTvljM_vu6BcBcvJnJ-fRzJzucf3zZb8pah2f_-NNG3VJn4ewVElWv2bOrLvgzoyMRbNK35Azf7yCvKlRCGI0ytoE8VDkINlx4T1ltmjH2jNEphO5X0AlUbn_D0B70cNh1Bqq_C4y4meuOlUP9fI_dByYSi92HCpiGVlHGzyGF-4ubF3w9XZNHz0nfWQu5m8V8jx4RO-iIqac9LoRrfecqFl9zL1RBDu0eTA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=74759",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcoYgAfzBYaa4dKbYVddDjAZzcNsq56aYgIeapYpcLtK0Apkkq6kw5dYYzL9aQjoQeTK1KoeGvgodVj_EL4gviDgjyo1mgn7-KbmhAgEBK472mrimzlAoAbmpzWDgcktlrh3JjbgupSREfmS-KC-MdnZNkAAKuue0oI3NG2eudIgznke5EHy5XUqIZrEhUHUStMLOtumSs9B3qF7FHkA85BaMK5v0npKVHwjJQUde9a-5VaZMgfVvJJPvqtLwtX5JGXAFb1ChcwGrXNfFOQ8S-qPP71JlEO4J1bjR8zzKtgsg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=3758",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdirhTOJPDEouiDhVzO8-WbaiTLoopwtjuB2BB4gz6MWC0DTPgmcblOkykqKqWIGyPxRXyWM6iTYW4aPj2Ay1V3tAS_zMbuhOzQxvJTtQAiLLqfMYeKg1mHX7VlN5RqMoarhsUwlNVysp2KwdZ0NEviowXH5qYs3OyDOmmMU1uQ2cqrB_8iL_SCEBbpKkDRjCozNv883RWM2yTOhuPAdp9m8JWP0jPyUqLBgloXcDYsqlrdQxCeQVqglUMdeQzsrMGnsK-3ddZxFr3-mJ5w0gGz8ZygAFpsRtjfUjx_iELNcA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=68107",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfwbPtp9wjhI3otKPzhSwW6I3i65JBdwCmiSwgBhCV0pM_qOfUEku-jN12a3rYePFTRxuCWgk-DxvSeBuX03klaZq8EnVPAteEW0CnFnGkYdRQHQg0q2weKcu0Gdo9O2DX42ssWSBrBorIZyT3ERgu8s-O2lB-TBJiE7XYJZ3z2pScKGXlVK7LvcpfhmMhadMaa1_pD6A5NQebXlds-uq3tP5wLR7kuNcTC9Q9AXf7yCn_t96XS_RWjZTu-R1pXZJ0v6_sEAmrVNduwVxGsGpTNA_T2Aars1aNNokTPgqKSXw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=105130",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeeyWna3EhItzA49YckJz4QxLyohO6JsGo2BPZM0wMtdre0tSB2hsVs_GaRz2x4puv7qI5pdnylxm-5Xp8pDqc33Qm6vUYNlQ8b8oHDjmMSETNVjM4L9rkr5K-lyBcRGHlejnyLshZtiIh8wlIqHZQhPubRzfyEVhm1xE9SKDDqFJN8OzlQhFgXto4dRiX--y8NDOM0ib4RVH_XlZDeGylrYZH_cUVpGtpfZt7qjY7gJKQHT9y2cnP5p1xtll5cKtkvfDPG-orn9Q5ymI8F_ZzvUyL0ZioxmQ-CldNEz5Z3Eg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=73710"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Sue Gilman Real Estate",
+        "author_url": "https://www.google.com/maps/contrib/106437271454263839572/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqrGA8o8f5lEaGxZ7YhJwhiWobX_0WVK_sBupHHAYoNTnfIVRm=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I'm a realtor here in the Orlando area, and these guys have really helped out several of my sellers. Punctual, professional and everything sparkles when they're finished! Money well spent.",
+        "time": 1741359950
+      },
+      {
+        "author_name": "Jimbo Johnson",
+        "author_url": "https://www.google.com/maps/contrib/116455748373243727400/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQvu9emAa-lO14itM51WbtyTR33FaXH20-qV5W-bOlOLC-7w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Marty did a great job on my driveway and house.  The soffits and siding are nice and clean now.  Marty did a great job of communicating and showed up on time.",
+        "time": 1738113122
+      },
+      {
+        "author_name": "S R",
+        "author_url": "https://www.google.com/maps/contrib/112892045712065679456/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJtJ3h1_7beoRB3qwYXfK0papfSrhYQm9JNmAoQzza1NySINw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Amazing service!. Exceeded my expectations and my house looks brand new. I had a bunch of spider webs and now I have a brand new looking house.",
+        "time": 1748042525
+      },
+      {
+        "author_name": "william velasco",
+        "author_url": "https://www.google.com/maps/contrib/116530737278808077238/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDc2xBwPntDD3LmPJEHjkCVaLFcsP7wVYhMYJILVaHgdR-e6NM=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Marty was quick with an estimate.\nMarty was on time.\nMarty was fast and efficient.\nGreat value. Great service.\nHighly recommend!",
+        "time": 1683386799
+      },
+      {
+        "author_name": "Suzanne Ramos",
+        "author_url": "https://www.google.com/maps/contrib/103395441608398264696/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXT5TkQ-BheSfSeLYMNj7DZSEndAoYSAK6Aee6TVn1_ESMek8o=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Marty did a GREAT job for us on our driveway today! We highly recommend him. We were very satisfied with his work today. My neighbor saw what a good job he did and got his done, too!",
+        "time": 1645294473
+      }
+    ],
+    "recentReviewsText": "★★★★★ Sue Gilman Real Estate (4 months ago): I'm a realtor here in the Orlando area, and these guys have really helped out several of my sellers. Punctual, professional and everything sparkles when they're finished! Money well spent.\n\n★★★★★ Jimbo Johnson (6 months ago): Marty did a great job on my driveway and house.  The soffits and siding are nice and clean now.  Marty did a great job of communicating and showed up on time.\n\n★★★★★ S R (2 months ago): Amazing service!. Exceeded my expectations and my house looks brand new. I had a bunch of spider webs and now I have a brand new looking house.\n\n★★★★★ william velasco (2 years ago): Marty was quick with an estimate.\nMarty was on time.\nMarty was fast and efficient.\nGreat value. Great service.\nHighly recommend!\n\n★★★★★ Suzanne Ramos (3 years ago): Marty did a GREAT job for us on our driveway today! We highly recommend him. We were very satisfied with his work today. My neighbor saw what a good job he did and got his done, too!",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "Prestige Cleaning",
+    "address": "1983 Spring Ave, Oviedo, FL 32765, United States",
+    "rating": 5,
+    "totalRatings": 890,
+    "status": "Open",
+    "placeId": "ChIJ0U7-Nrht54gRksb5AXVWZUU",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.6996261,
+    "longitude": -81.2373905,
+    "plusCode": "76WWMQX7+V2",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 743-5239",
+    "internationalPhoneNumber": "+1 407-743-5239",
+    "website": "https://getprestigeclean.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=5000498021809112722",
+    "weekdayText": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfmtJuWNECIUrgZNWTFN6wI8NspkgtpZBpc4v8mlqK2cxi3GP8mpmZRVMpSIkTKcHRzrkS9qr1-6rC4UYN-rRCQKTvyWRjnVPhAFMc4r3IMk9PU51TOzNeNFHk85w3kU2sPeUwPMmCd1SHj1wx709dnHzXYFjFOfl2dAIJUdMF1cHdbECEjswLT2mEDaYGOGFRCiqOLflkzxnm9qOSwlehpBA3VRLuiewtkB57l-idjGPkhUMQVUOrUaipabmVyf4Ww2_6zIcKy9Wm034IMdlY7yT7-Mf9jaTl0dymUW8lTUg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=49860",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdOCTrmpRzupLS6D59foFQED7SODETHhwQ0AithQPPrrlOMqeFpPiQFoMsPelI7E-uGpZmnHpB2m4Cwxjv5NKJFcgbqxI505xAVxuOvzNdNiZ9QWliNAuUaKIQwzOO41cVAndigdIvDJq6p6VNqG36f6X4VZ_asElznfmjj56J02lMyQvDZcXYaIpPHpYQSJGOWh7eUZYfwRffClEdMtyDOJKm1fkAHUGuuU2RyJbYsEo_nAkYD_V2Vs12CXRzYXICCugAWhfjq-MXYp-5dxsyBROSkfuDOPPmtG-mDiCk4AA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=10122",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeYvK_zSlI08sXDNCyLUE6D6zi2vM3vzjLYiylvKg1XfiZUXj3QSPwhkojR8WOZk3l_dLx5OE0RVI66pAAYRlBKj2EIMfaWHsQKzHcCxAvZoc7gzFTGXx3RJUUeDO0HbwzXzAShXAU4CJVp_OXRGUSPDLxsqSUVwt_P6DoFacmqxQaLpS21tpe2P_nQBTkHmyMNxIvRAtmbJzsndhAwROR1WgkRcp72h-BmUFnKG8Yk1GAcwB0rqNvV8b1uQWK5GW0w1TOXMFttz2BYOklOCwkwj5YH2Qbldcu1_KxjxZBlqw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=119456",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpebFchm7To2roUyBoPIGqXCWenG1vcsaFAGbb8ZgxrG5vrIDSWnx7Gdeju8Dl6cFdGeLtDYTSfzB4w63RDDF9Px5vsojeNUL8NS4ZWT0oyr-iKyAJeR1N5isAoL8ReV-KuVKnukDiYCbw7tBAKZArNtSxf3PT5ZaJQkvHfK9zvxI1dZ2VYICheTMtS34dYQ-ZFINhjMDlrjNEQFCiko2xu6kDOd2B-CSLq7UwcKzWvY0jcPFoyB3bCtLljy7gyUzk0ZfVeB3MT-krvFSA8MvfSRsTho1TmSOWpMXA2SZ0iZeA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=68751",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdlyciEvqQJskXn9xjuUuUa7umxZSrAmkMySfJHzLFjgB5nmYullTxz_46Fmb48vn1hi8aTZ30bVZCA-tTWyA0ONbjI7dmMF-0u88XZg1sQW4CixYvEos2ZsKeeliMvATbpqqOMaW1cdP2x4YIh0gUm8uiLNS2sRqPckxA4K3CNwjuoNZzRxclCTCjgf33FGqWo1o5MLijmD6S-aPLE7MXWdpI9chhUcX8FgKLW1jYqnDCJsO5O74X6ur06_QwNLjgC0mJfeGLLB7WiHkjfwn_YZ55yv2jzVpJNWuhRSu_EVA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=84514",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfL-6Dj4gn8lGwUxGft_EJ97PBMLVWpbB32TTzhBV7NbKYM9g-hM-25CDsZJAdPbgvwqdDi3-BIGm0godohLAA60p8qMPS8j9yfEJPMVKDX25StbaBrBNnwAahMW4cx6Nxi879xcXZvfpgnTHevT3rsuGrr_ATejY9Q3PltY-5NwgEh9WL2qidwGcbMRwQc37QGIk6QT81mRRoaNR3q83bAsEDm0XCXG64WC_mMGLDT508mUdhXiKyVTMZgPuE-m_rmvQ3xOwVU_P0om8Iouxxzn02BkeP8sPslYPM6WLuWdw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=23930",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpe46ogAehNfqYRituIVaC_enRJEnFtCuR7NM3K8xhghJLjaOkCv_0QQPQYAG37z1JaCm4tGthchaiMBkJNbLuVdGK1HpCIXgMd7LCF1r2MzcZ3YT2028NPGekvMZnS11foUye47HMN5_BiMCUrv827U66d3NfPWIXf6mq7wuasgdzFNm6vQHviJh5JTCwtEybXGrrFDccODXl5YdRzQSb1BU-Ck_7L-MBh2mkCUIgVBywv49BNYjXPdgfN44-A_rQGlt1EKbJx1crrfDI-7dvB7WwIDmjmZ20648fR7kEcZZA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=116213",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpevgiYdf_A7no2so_eETzyHQbtMIKXXv8FkZmSwvCAV-kXc5OxOuQ5NsIKJ6sZbEiS6dr-gX5nYPe3Qr8DaKcfIXD4hIuZBgGANyeJOE3JKlGjm3FbH1PUoDP8EIUXr_LczIZWPwGzvTfmygwEB_HOO7B6jZ_1R9jkfRKa_kFnfNcNrKARKhO9G56SD5uguncGUYRj7A-u-7UDVGmVnv6wARxrWRrLdrxMxaSwZixUa8X10OalaA-Eh6raFrltXzv7JMaDjeG2Hp7UI5eDslsP41ATnR8hjBhj5QE8SPGT-2Q&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=83895",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpc0WUWSCw4fy5JXQRBeH2Y-3UUommRq_fNGE70Rw_1m9uI7ctW6D9WzcP6eVE2cVmfb7EPST1vepcGZLkxoraYUguz9EFqNXNuLjDHDyaa4V4uZYN6PQFDJP1kStJsECk-b1_OiBHBgqe-voxJhYnbxoTfIKaLZswtgTfZ6ulDP9_Ipo6qAwaO2Sto1mkgYNhUvLbc5DbKQKhMhO6ZhrUaVf9en6qWky_b5Wo0mcFHfcGw24Lyp6iQ87e1KZExRSBaXPB_w99Ft0iB4opHTLKE2BEFtSu0unarlGYSl65vN4Q&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=18729",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpflaSpdjo19swJoOPX7fAyONbBVwVnady2wcOGc-TRTr3s1IlBAe246gGdq4ZUGZUOdM_kc1TNtqAB1Rhx6I8FMhoT7vUuP6kH8RV-2qu89Zn2M4rcvhHqcZsDHjicOS0OFhoB8QHeeB2abUx50Ftd4aDDxQBppEodGlrHgV5pyAkpPDTZCpY69nPquAXwNff311p84DHfTCZ_QyRv82hHdP_CSMc49C4NNSnBYmOhADFhJQHN9aFtREL4ZVns2MzaM67g2fXeiWSZTVmHp7--BAT9jiGjInB1aGsoKFsgk2A&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=60274"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Tim Harper",
+        "author_url": "https://www.google.com/maps/contrib/109494611168497492698/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUt2ygRZSb2ouaqH-tj057vhzBY_5kj9bpQ4ENIYKCXI3G2pB3f=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "5 stars PLUS! Joey and Austin were amazing. The experience was top notch from start to finish. The job began with a quote and schedule from their virtual assistant, Kate, followed by exemplary customer service on-site by Joey and Austin along with their hard work. Our pool screen looks brand new thanks to The Prestige Team. Didn’t take a before photo but suffice it to say that we had a “green screen”; and it wasn’t for video production.  Now it looks fantastic!",
+        "time": 1743447068
+      },
+      {
+        "author_name": "Luis colon",
+        "author_url": "https://www.google.com/maps/contrib/110357636370429813721/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLqgNs6Azsyljzdabq-0yObEjALh78vUTvFozkye8asMVcxaw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "I want to thank Joey and Logan for coming by and taking care of me. They did an outstanding job pressure washing my sidewalks, driveway, pavers and coding my pavers as well. They’re really good guys. They’re on time and communicative they always make sure to overlook the work and make sure it’s at perfect condition before they leave and I can definitely appreciate that. Highly recommend Prestige Cleaning for any type of cleaning best company I dealt with yet. A big thanks to Dustyn as well for  always looking out.",
+        "time": 1737306203
+      },
+      {
+        "author_name": "Ariel Shea",
+        "author_url": "https://www.google.com/maps/contrib/116663385130513795189/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrG_P2lFExkDR8zyViQFwoIrFEwMj4CxvrcsPQXALn3WQWiLY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "We had a great experience using prestige for our gutter cleaning a few months ago.  Scheduling was very easy and we were emailed over the quote right away. They arrived on time, were very kind and got the job done!",
+        "time": 1752280201
+      },
+      {
+        "author_name": "Karen Ganson",
+        "author_url": "https://www.google.com/maps/contrib/101778398213498541941/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKNqfqSqWaaRUSxvh2NNS6k7zaGPSLr8km-MQkx2UnVTWceSQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Prestige Cleaning has top notch customer service.   I was impressed with how quickly they reached out to me when I requested a quote.   All of their staff members were polite and professional.   The job was completed quickly.  The results were fabulous.   The cost was very reasonable.  I highly recommend Prestige Cleaning.",
+        "time": 1749151448
+      },
+      {
+        "author_name": "Elizabeth Pearsall",
+        "author_url": "https://www.google.com/maps/contrib/113900900678582398988/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5Q_7kFizXEgAuySw0N0YV7DNs1nydgM83MNxNCqmY5Y2y_Jo=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Both Joshua and Logan did an excellent job cleaning our roof, home, windows, screens, driveway and sidewalk! They worked great as a team and were not only meticulous in their work, but also extremely polite. This is an excellent company well run by an owner that is very involved and cares of about his customers. Do not hesitate to hire Prestige!",
+        "time": 1739565856
+      }
+    ],
+    "recentReviewsText": "★★★★★ Tim Harper (4 months ago): 5 stars PLUS! Joey and Austin were amazing. The experience was top notch from start to finish. The job began with a quote and schedule from their virtual assistant, Kate, followed by exemplary custome...\n\n★★★★★ Luis colon (6 months ago): I want to thank Joey and Logan for coming by and taking care of me. They did an outstanding job pressure washing my sidewalks, driveway, pavers and coding my pavers as well. They’re really good guys. ...\n\n★★★★★ Ariel Shea (2 weeks ago): We had a great experience using prestige for our gutter cleaning a few months ago.  Scheduling was very easy and we were emailed over the quote right away. They arrived on time, were very kind and got...\n\n★★★★★ Karen Ganson (a month ago): Prestige Cleaning has top notch customer service.   I was impressed with how quickly they reached out to me when I requested a quote.   All of their staff members were polite and professional.   The j...\n\n★★★★★ Elizabeth Pearsall (5 months ago): Both Joshua and Logan did an excellent job cleaning our roof, home, windows, screens, driveway and sidewalk! They worked great as a team and were not only meticulous in their work, but also extremely ...",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "Power Washing Orlando",
+    "address": "260 Lytton Cir, Orlando, FL 32824, United States",
+    "rating": 4.9,
+    "totalRatings": 27,
+    "status": "Closed",
+    "placeId": "ChIJedX6oVaH3YgRcZHvd_jm4zQ",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.3962422,
+    "longitude": -81.3869981,
+    "plusCode": "76WW9JW7+F6",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 907-9274",
+    "internationalPhoneNumber": "+1 407-907-9274",
+    "website": "https://pworlando.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=3811143664524038513",
+    "weekdayText": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 9:00 AM – 1:00 PM",
+      "Sunday: Closed"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpct2hVU3Y2udG009rN-egUsrzy_DYqdYAqWThdhY1ytNdG0pcxQ1HReC2TYDVhHgIsu4t_MsM5By1brr3W_CGT8ZO8864iq2jNP7dawVQyf8U9jUzA0cbcpgXqBxoM6xS6QA3ia9Q8W2RuJLlNfvH3-C_AMe_oMaaOumZkw2gM2z4GXuNt1CBAIF8z9p1FWTUnTx-NTvC-JgWWFG8XNoQNhT7Ya5h2EyQ5aZBSQw5kPgdzZURjcUosAFz_c5SnphBir_rPqUj2OOjL41SxoG9eXxtZtAiJsIXpR4thFCg0lXg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=106843",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeMqD1J3J1AwPO51wOk8VFHcLf_IDZT7lyfKfuF7Jnc8eQ3u6ysiFVu4hzk6N0aFD8-tqUUQYPpcD_WF-b_ZqhXZaI-doPxv-C2yzP7kPvyMh_o_KBwU1IJSUudWzs-JEbonaBnUjDd4F_2cqqgtNJdjXxH3-Efc8EasjZ0gsMZuEZ0gpzxxoN-Zp6ynGKvvzWjMs80BUkIhrtuE4gBnw49TzZpDy8TsUE-eCejlcsY0Fcu8zJPNOjxl6fQ1aenYohgrKPQ_rYLuYU-P5L6iISMckOYrqat1U7hpjJ5OjGY1Q&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=108356",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpc8r4mnOsykXsjFnh2r0I3VInQUo5N1iacvw5o_l_yuvsprUns6NxO0wPrw6tC6JXGpYD8oFBgyySwX3dAn2EliwaQBV5Gtvih6eG2m9x6qFqx2osrC1JkiGiAklRmzY_dcdBbzAd8Qv6k27p-5hresy8wuM2Llq2RYEcgbHlzqgtmUXM4mam5KjW5ffU93iOQjiTDUnjReicskYbMl5LGBIio3YtiwgglvlMfSQ7ezzQ9_iBI5DVorQwg2c9tO_s8Q3hLhALVhisfBGgEjUk5FSB_5kOeUc_-k-xzEjLRp_A&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=46480",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcq8usqAP3Ymn8--jgw_GAkERCe3WZgVPDm3mADJM0mX_CrcLs5LNICnBNY_bN2RAuiPQ_jVE7VecUU3SQRvhIcfNazONdmy0N83hOvj_wQrwPm1Ru3hx9feguI0j30fyRnZnacvyciN5J300tPCZsK_b-t7L0zi06a1ZFgqavx1teT5Dn3GLMeaP5aozHgUu_AyZwG7Hz4vKvqRgs6JUd-cDWgge5ABlSSDIQwNxjpBh5eyAKslD-wdituq-BBDtqiBQUe6mOgid8L1Q-purmRg7PyUYbj_beaIY9sJSzQkA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=54124",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcnMDdESrJZehTnoIh9RgJeePz80FVRRgQtYki4PiK3EWu_VXJQgenSeSVYxmRJLLrZPSCFW1-b9I2W-p_QoEOJ5sFVntOGAARKT1R3OfXY6fgL6g3bjGaxUpt7_miYHORkrl7bUv5k8ztcMXHBSldytOZY0eoYtLcBuZ6zF_nOfaJYPongYsUNTdyTEUcg58zer2v7JYCmHEKZQOLll_Q2fh0XtsGHg9245XhVeTP8TCjw2xJvxcSD3UbkdEhUKxtUf5WGqmDyvjG0YYv9a2PGrDK8psQUOhMUjUq0nT819g&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=109184",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdEjMFLItGiSpoU0O9ErUAzF8Hg0qZW_gcAtv7ZoAl5IacL2ZPP1tX9T1Jc-asmmjhmsxFSFtCABBzcPygcFFo4-eq7HI8SKHNCPLohv_RvBqecQ1ndtOgYc_3WvCMWQRtCkI0XQYUnNF86mHXtFxFgLwO8CSODdaKKonksHkucOc7Pg_a7Un3oEix1am6_6UtqGlPAu4DNq1Lu01krMneXdlPqGmP4h7WL0oKBeCjT6XSuO8J_uhvxqz_4irHjvccTMkkl_HMPE1ycDHXNZeHJiekYqIrnJ-0Z4n751MscRw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=67062",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfn61KIgxp4nZMTZTbbXYvt8MTa1MNbtMX1EYnHSfZMlrPqfcE2_xr97vc5aJZC0E-4HRIXxw5ZGorlbrwq8pqYZsYDpvE7z-wu2qyzGFSBnXFLoUt5jmLUUtFsCX4-WWqUlAzMCRs4GZvCVcsjtEnlovcSj0M-OtfhYfnHELwboBgIkvPqApuTMFkWEKB6zRg2ptBnM97swBoi3ub5SrI9SSiFGHjBI4sttNyJOtyR8wbyioiYaKV1SiPELyCM_dTG0R1b4Vvc-ADzCcgn6IFAPOD0vGqdcXykBoTPIqJwug&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=86201",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdO80J3f_pLbhYaCUri52SVO8rTIGHNGVGGkG3B-N-z1_TeHFbIs9bFEqJj_H2vF1DD2NGGrmTnJgkpyhYvtmXkiAXQC7gNo1dPfsUHQo-oUF03wioTj9mv6FgfJlxVLTuKiOQvZ76197yX7k6r8_7DCChuloBRhgMNiwLn40dBn-ON_wTNj63STj-a5v2UmziVWg3aX_56jRwNpBNj0J7B9KVal19efBdDT5cfMS5iNS0DCtJ2G2gEPoVd_9ZjDfUvqYGBE-DWBhJviARoyxTAmJeg9AJSBX_5JMUFx5R7ew&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=89643",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcV8xdhpNGrLhDm1b7njG2u8uKvr608AKvxOvHhXLJ2LFRROtHLAidWo7yXSrmAIK-IpX8BztGnXdd86V_pdqIEKZXbaXsdlrhxdcFckJyiR48meKjB-6Fk2Bbc3j4hobEi1dDFcISawh3bZTWO4s48EGV57S1XcKXjy26dZBJviV5IczcFlReRhGv7nvm0_P75lPqLJ5QGcQluD8sXSb7NjoUUff22Nt1HK2DllRtPjJ8FCCuavQpkDE9-6OMsKES9Ek33RRyXl0XDr9f9QQmqV5h2TQV1tyzAnlMnyq3gKg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=45445",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfdz5ECOQCi_lxft8oP7gHdz4IaVxQcap6ONGEbKRR98V5xrY7EktOoNyTQlLB4Da5Zt5-JCy_w3kOi4Uz32Q2qMuBwdKG9qw5QRnn3qlhQM39IliLQhkvw_776JiUuRsYXUa1gEjpKlCsvh757W6_g41Kcwmmp547YZS6F_HPOs2dQ6tTtoBMRxRK0bHbrf_qKrWGNkYQZE9l_vQMWK49xdPQVGuxZmgaME2pL2gNXq1ZELQdp42R6d2jIBQk4d8e3W5vyu41LzQBmWl2h98ToVOuZcDJ5r5lQhX4Q-F5_gg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=8536"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Idson Mompoint",
+        "author_url": "https://www.google.com/maps/contrib/115806285303685801932/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjPk5fDYXii2dpJjKFFKgEwjlm7Hl78Vj2SVv8h9RIt2NFC_s=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Amazing job by the owner Bruno. He is a professional and goes above and beyond to make sure you are satisfied as a customer. He is also flexible. My neighbor decided he wanted his house pressure wash as well and Bruno readjusted his schedule to accommodate both of us. He has my highest recommendation if anyone is looking for a person to pressure wash their house, porch, drive way, side walk, fence, deck, name it Bruno can do it. Thank you again for a job well done.",
+        "time": 1697569604
+      },
+      {
+        "author_name": "aridsmith",
+        "author_url": "https://www.google.com/maps/contrib/115813066541297038536/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6b3XymAuoKrCz0O8IWl7EFz0IK_7BH8-uaFE_yaSgJMrbaxU9=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Highly recommend Power Washing Orlando. Very professional and extremely easy to work with. I needed my roof cleaned asap and they were able to accommodate at a reasonable price. Thank you to Bruno for the help!",
+        "time": 1711487227
+      },
+      {
+        "author_name": "Mikaela Ferreira",
+        "author_url": "https://www.google.com/maps/contrib/111929945628744004962/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgbN8qYm7K7I_6OY7L0sLuz1-OCHQUJgUi2Y_ARRoGjKv17g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Power Washing Orlando is the only company I will ever use for roof cleaning and pressure washing from now on. For starters, Bruno showed up early, demonstrating commitment to his clients and pride in his craft. To me this was a great plus, especially considering how late service providers typically arrive. Additionally, his job assessment rendered a fair price and excellent communication regarding the correlation between what needed to be done and services he was able to provide. The job was exceptionally done and I could not be more satisfied. A great thank you to Bruno and Power Washing Orlando for the quality customer service, communication, fair dealings, and job well done. 10/10!",
+        "time": 1645149129
+      },
+      {
+        "author_name": "Marsha Frankel",
+        "author_url": "https://www.google.com/maps/contrib/111434080918035101007/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyRPkD8mo5fSTjh_ImdkqzNHotnV01lS2zr1rYgMhCdDfBay00tw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Top recommendation for this company. Pleasant to work with, wonderful workmanship, on time, great communication, excellent cleanup. I had my roof soft washed, porch, driveway and sidewalks pressure washed and about 14 screens replaced on my pool enclosure.",
+        "time": 1696875526
+      },
+      {
+        "author_name": "Christopher Benedict",
+        "author_url": "https://www.google.com/maps/contrib/111296203045076386099/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWddpBvbGtLZ7U3zS734-pT7VbDrU_fpvSFh81NSqPF0V7QYQgnkg=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Bruno did a great job, so I highly recommend!\nI found this company's ad in a mailer and called. Bruno set up a time for the following week. He showed up when he said he would, and set to work. When it was all done, I was really happy with the results. Our paver stone driveway looked fresh and renewed, and he got all the algae off the shaded side of our home.",
+        "time": 1667909432
+      }
+    ],
+    "recentReviewsText": "★★★★★ Idson Mompoint (a year ago): Amazing job by the owner Bruno. He is a professional and goes above and beyond to make sure you are satisfied as a customer. He is also flexible. My neighbor decided he wanted his house pressure wash ...\n\n★★★★★ aridsmith (a year ago): Highly recommend Power Washing Orlando. Very professional and extremely easy to work with. I needed my roof cleaned asap and they were able to accommodate at a reasonable price. Thank you to Bruno for...\n\n★★★★★ Mikaela Ferreira (3 years ago): Power Washing Orlando is the only company I will ever use for roof cleaning and pressure washing from now on. For starters, Bruno showed up early, demonstrating commitment to his clients and pride in ...\n\n★★★★★ Marsha Frankel (a year ago): Top recommendation for this company. Pleasant to work with, wonderful workmanship, on time, great communication, excellent cleanup. I had my roof soft washed, porch, driveway and sidewalks pressure wa...\n\n★★★★★ Christopher Benedict (2 years ago): Bruno did a great job, so I highly recommend!\nI found this company's ad in a mailer and called. Bruno set up a time for the following week. He showed up when he said he would, and set to work. When it...",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "Florida Pressure Washing Equipment",
+    "address": "2120 Orinoco Dr #216, Orlando, FL 32837, United States",
+    "rating": 4.9,
+    "totalRatings": 145,
+    "status": "Closed",
+    "placeId": "ChIJJdHbYu1954gRpemjsZT5ocI",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.4127696,
+    "longitude": -81.4073143,
+    "plusCode": "76WWCH7V+43",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 286-2629",
+    "internationalPhoneNumber": "+1 407-286-2629",
+    "website": "http://www.floridapressurewashingequipment.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=14024765131639220645",
+    "weekdayText": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpe_nB0a_c6tBeUSqtkE2Vtdp8ZBeMhbxHlmeEt5kmIcOrPQ92E-nWmmALBHiVIGBOYIUDLTZeEYdhI4mlK5Sp6UdwSasUeffuiKoKZOequbd_bh2KaQxQ73SzJ6aT40Ap-H-8fsE9HORfpB__sF5Ke-R5Ebpk9nrXife2ByIURQFuIwysqz6w9y2fL0fQ_WQ8h7SsjhvJUUztzsO-NGBkjkSrsdnTCh5JpRyEWB4ZBa4T1VFpmZL4jrZFPqQJxOA3_La5ozrOk9jqdbDSEPnxZ4oeCcYy_XEttx6ihE4VbQCw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=127721",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfJi571_mCwXwMO8yTk947xh9b-mdz6SDpCvI50xrv8QcT5v9ZdrXPELhnR8VVpp-fSML1F4OeulsNrCRmClI7KDxtEhY7FvRy2TZeFgFd5etpts-41J3jCmQRsBlDXbidrmo2dMCdMxWsyJRvx64JzSS_2G4F5sGohwK0XlbWBDixMFWulzQEAlui3_0oC5s1A2N1kO9c4uPPITu4XU4XJQJiNqyGQipORhZ32B8wYg9zmS1ZE0vXcdABlhS39INoe6XW2OOxeAvFf7NXYmJ80EP8mzzQwLag04CPcx-9Bgg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=67401",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpf8ju2f2gH6xy_At8QW9ZZxg79i0dxvchnzOC5V0YfyllqD_i9fr-JqJf1XmVZsc6AJq6XmXBZnMOltH3m6GnTAu3xs6SnhC5QfbGTnAm0W8GO63FvTnxWUpWwIl5xfXjnGbXnUZ1FRcN4BecICSb6o_2CMr3DtS71XaKd-dAU6zZ6AP7k1LN4WjfjQXifTIR2Dmk79OsHHdczpxYyh9ErXuGur4SSYobSuSX4Ym39L80qd7lv6GN0gJrs724Y0hVN5cpmjQUTPmYluRM6zLYDmlsWUm21UcfsO6FS2aLSXeg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=39405",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcpV9VhLVrm8ajhM80w5u6o2wJX2CpiRVwsq_b1Nj2Lu2qXkbf0axEB9fJLnhQqEE5j_Zb5PxEnHmb5uuYYEzojWmMLdrchzp6gCLhPO1oXSLLz7FLG4rAh1KShttbFFH48X9mhF8PMrptRW5JmwNRSCApNZtrAJSycg2m1amaoVIh4x-Lm27OoaDYeSmOX3obAJN6ElCaA49ZzsXqiMxFoy1g2CduA1aFonR1CLmRNdQawsWr8KUIHOQSWhoNtXDu3k46ihJhe9iNc3iqpqV_zsFCgAxgAP99zO4ulAuv2OQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=65864",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdwUKwS4ep3EXpV9P95g_8PHya0usHTgCuZrGtEXhuHHSTWUtpX51JUGclLXjwXc7SPUW59yrcvnAkjck31N16LUEnFth1famNt_AnN5sIktbraS0vPJtugf6AdkgRdQ8huCsEwcwwvN0lSOLGzzuSfMYUV5BpqCEEcSm0FWCaxjO0tjANBUEpY_riAMyCzBgLIUN3ov6CeaMzWROQm6wBcT6IKk6N1_DczP9oFMNtlzANMYjzegKYdMDmL3G1PopHQNLPfd0I-tN7OVkc0yHW3zOuSHUe2jCQAaJmJI-hGHA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=92419",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfDl2e9ixBtjDmLXJ_TNMQSJgYLE2Hhyrk7jkIVtTGTImfq7hqCgZKO54xlR7aTvRDdowkBJyV28QvYY6GlQlsPBMjHLX0KU1hwL-Hj00mlX0UYwf4UbZtMU44O1AHA39iWTUBjupd8VDnXnAfXNqxmadBmneNgXgA_TOy9fbUVLh4VzlgybB-IGDKIOgFl24B7M1Xaw4gChENaCxgTg2FWCEyXJhRwQBfvgQMxGrw5Cc8hYn6R3q6Z1kuMy_ZqpDZaUisjtvREZg9dOBSSIqJGTxQnq-gqAOfJF_SaS9Wbig&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=52179",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpem1V0sOn-dGZ_bZgQy0i8MV7VDxZQM5imvfgcBDvVWFnNnpg166vBZ4s9LkKSuJpVpuqNT0L0a3bHfJGU9KdHWt8CsA2oJHa1ngfJcvDtaI5OAfKwFY-2rlO-eZsCPrMZD1JaJrmRijaED2GPRz9Hm80pK-TSuyqq4picA1XG0yenpkesv1EB-_7UfKjvDWPm-2MsjR6ExNPI2facDao8dXH0fGMBd344z-Y0D7JUR_yFhhZr62RX-8bukku5zmfSGl38qUo9PYGC42jaxyRWJUXkgkfezDBpWcyw8eliDwA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=7517",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfION1FSNZ9P2iWe8VpV982QLlxaBa8zEPEmaM3h6Ox8vX5F265yaPR-UXE2a7Sf9eROMW3IyJ6QTPhhJDD8ycYJh3j-Jg7Dog1Etr0GC2u_zOt3hdkudjVQI5_DdPFKg1qysc00gF3CMlpmkbeoObICEloQ4C68AktIqpqnh11jUbLlVLXbza7GHe1hN5seMsn3JZy0XpTWJauy34KKv5ggBR4a4iS9fQlt95d7ebt5FrGAvjdzeKPhMZwI7yOC527TeCwvluWBvoOiAbH65NLWIBVi-EflLyO8deCTRh-5Q&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=80500",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdzizyYRsHGN-QxkKZ3OqsAm9yvoJeHPPxv9AjeuXAEzSPmgcSTNS-cSOKqO-sht3tPEQySEhZ7ZvQecv2C8Ckc36rjvAtB80fO70Y8AciX8neBAWTTZTwoS4PPijkctnNYiOYeO4Od25E4bjrrb47jySa9r-YQaQ8-kY2i8RIMuvQ4J4CO6vx1Yq7t4ugRLGnURJe6eHR9ROzcHTAojpF7Hhctrf9WIdtJw8x9H3aVCYXyLTzOGoI_I-9ZJT2faMGNnzfauGuzE_vQyFI68j29kBqHov-CinewkS2YeHHpnqsxKelk3PG4_UTvOp2fvg7iOEcL8rbn6leBMfklGYXj3NcYvvcTRaNvgIL_t1QuJg6fajtMGjlpZSudYnfShtfI3DC4PuKsfFUD5KQ9EBRd2zom3xpjhdYQXyjZZ8bhuQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=111791",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdwY_fWsbJrJH2IReer6K447fJnWcfOA8KaOaWluSdsDfY00804JCwgdovHJYo41BkYkv2YCaLY3cmy_urHYDNiY59Rv7xvf6LkeEXMupQMIEsYKaWAj5SvXR8v41uewi-ZWw-hYkgpOhJIxtA7q8u5hSyt_OzzmVbYgvySZvGTRR1EnEwrWI3R7FRYEQyF8INloTiGTaJXm_QVJKSueQqr1pDeuL6e6St42EeY9eZ5v3FJJMwdc7jFZAkJvAEugbVEF4-k0b3EXeFihQPShQnKPh7Hxhnxta78JZbj0fHaxw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=46946"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Vinicius Ferracciu",
+        "author_url": "https://www.google.com/maps/contrib/115258232204795169672/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWptRNEqdL_5TR9H6irtt3XEcAJsNaa5BNuJXD2_2_L55xFKEmE=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "8 months ago",
+        "text": "I have all support I need with FPWES. Highly recommend. They have the best customer service for sure. Focus on customer needs instead of trying to convince you a different tools or product.\nIm very happy here.",
+        "time": 1730997838
+      },
+      {
+        "author_name": "Bryan M",
+        "author_url": "https://www.google.com/maps/contrib/113974937321044651736/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJXWHri4oqdTcp7N5cx9hwzX16WDG2g0j68P15oy-BQXbkSbA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I stopped here to fill up on 12.5% SH, which was a straightforward process. The SH and equipment were more reasonable or affordable than retail or online power wash stores.\nI have had the opportunity to meet one of the owners, Mike, who helped me out by walking me through some options, which resolved some issues I was having. Very knowledgeable.\nThe employees working in the warehouse were a great help as well.\nI look forward to working with Mike in the future, and I highly recommend this store.",
+        "time": 1693258281
+      },
+      {
+        "author_name": "Logan Griffiths",
+        "author_url": "https://www.google.com/maps/contrib/104718290187405086231/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnI21tgVFbqTmVWNSelK0Qukum0_oVpOiO_46rq5YWd1lkBA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I want to give a huge shoutout to Florida pressure washing equipment and specifically Leo for helping us with our mobile detailing setup. We ran into a few issues trying to do it ourselves and Leo had us in and out in under an hour. He fixed our flow issue and made sure everything was working properly and to our liking before letting us leave. It turned out way better than I imagined. Not only did they fix the problem but educated us on why our issue was happening and things to be aware of moving forward. Thank you again for helping us today!",
+        "time": 1714681813
+      },
+      {
+        "author_name": "Juliano",
+        "author_url": "https://www.google.com/maps/contrib/111342076645858823347/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyv6WRNefXdQSGQcXuw0WfpQrv-uI7HdN4mTarbtO31h28RDY8=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I had an air leak on our 12v pump and for the life of us we could not diagnose the location. I brought it to FL PW Equipment and within 30 minutes they were able to find the leak and not only repair it, he helped me fix several other small issues we had and made sure everything was at peak performance before we left. Also thought I should mention the cost for repair ended up being exactly what they said over the phone. Highly recommended! Thank you FLPWE crew for going above and beyond!",
+        "time": 1701906645
+      },
+      {
+        "author_name": "Citrus Coatings",
+        "author_url": "https://www.google.com/maps/contrib/113060168494005883816/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocItTXhk9r27ZgZcvZGGbUgTS3yRHWiPdp-mIPipIsjpg_tBYQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Always great service.  Saved me on a job having the parts I needed.",
+        "time": 1752361731
+      }
+    ],
+    "recentReviewsText": "★★★★★ Vinicius Ferracciu (8 months ago): I have all support I need with FPWES. Highly recommend. They have the best customer service for sure. Focus on customer needs instead of trying to convince you a different tools or product.\nIm very ha...\n\n★★★★★ Bryan M (a year ago): I stopped here to fill up on 12.5% SH, which was a straightforward process. The SH and equipment were more reasonable or affordable than retail or online power wash stores.\nI have had the opportunity ...\n\n★★★★★ Logan Griffiths (a year ago): I want to give a huge shoutout to Florida pressure washing equipment and specifically Leo for helping us with our mobile detailing setup. We ran into a few issues trying to do it ourselves and Leo had...\n\n★★★★★ Juliano (a year ago): I had an air leak on our 12v pump and for the life of us we could not diagnose the location. I brought it to FL PW Equipment and within 30 minutes they were able to find the leak and not only repair i...\n\n★★★★★ Citrus Coatings (2 weeks ago): Always great service.  Saved me on a job having the parts I needed.",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "MAGIC BUBBLES ORLANDO",
+    "address": "1415 McCoy Rd, Orlando, FL 32809, United States",
+    "rating": 4.9,
+    "totalRatings": 58,
+    "status": "Closed",
+    "placeId": "ChIJiY-5wrt954gRiXpRpGddgko",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.4512834,
+    "longitude": -81.3604151,
+    "plusCode": "76WWFJ2Q+GR",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(833) 622-5326",
+    "internationalPhoneNumber": "+1 833-622-5326",
+    "website": "https://magicbubbleswash.com/orlando/",
+    "googleMapsUrl": "https://maps.google.com/?cid=5368956405498870409",
+    "weekdayText": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdh7ZIIoFLQeDma8QftrkekiXHZ4aqWtcHe5g32N-3Q9t8goudz24lqzFXs4LhXZi_fT09tTjt0BXRYGevDn1mdtDhfHQAac8GP7LwBl2lRboeyJwLe08IyqV9O115lk_RuUpBus_iGAR2IrlIppryXbW1qEtIevlJm_BzdVgZgbPNwd3vQghqClEp4pCdJq0oMil2v81DnIl3m8y-dIE_Bwa9rAWtmt2XgihB9sbRr32KISyPT6DaVo2tuHxEVus7vp1JcpZD31ngDuQuiCVGWILPmiGR_rDNlU1WeuZKXOw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=66056",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpf4bxUG2BDTujX0NMUkf4lSZqBlI0bv8mzhpLGEkygVzqTAiAYLs7BAotzEbTyUAaFvFrnr8MOdcAmct-TRjD9gxbGb29Zi106wtoniq2Y8C_e3a1D7dhridzAnhoQ5Hwk3kMNzzK-rTxR5kelfTg7Cx_csGJ-7i5Z-eVqWDI2VYd-U0eEJNcvPiaYDiFGPnJSBAvZrI2fyPNKnTUKIek9Ck1f9PYrlPmsSLNI509AWry3Jh7BIEFqWsnMeoaLrwa9SSe_Qb0q35N0C06vyX2OWiXL84dT2iiDpeB80V_0icA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=81661",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfZrqdbPlr0svAyO5g7J6n2OmitERpHT1GGp2qurzK1u-zDELX2RevyYa3Eru_orz8ijfNy36vRgalhZC-grRnWK4muR87Hu9y-2FFduwi5wLsXnx8Kr7ChacBLa-ssOtiRAXc8lLGOciP-_ASc_RdWg9cit3phEbr-G0Q1yqYLdS1maxOnt9v25aSRJam99UkuCFknTxE6Zz1nYTqH2KNPDPS8-EZFk-WUl4xScaD1iCEfMfLs4QW8PBF9p01drSq6fFUHNHKN2mZMhj7v6jVUQCOoYZE0lUR568jVsIinWiCQ5PSXg0O4NjPpevxvUKL3wTpqbLGUOt4YVqA8KxY760S0cni9OyXQ8RFfrnwmHqemgmM1IaIxLw_U4YK9AMRXr2-q5jvm7XSsp8LQvjiDRfMkivk85Mr2Z32RIzkMQjns&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=14273",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeJvMagllDiRLM7uD6OrFMObJoSgMehEDDfuD7TG9rCXnoJCYrAtbrASGKxehEIoZdPP-sqWLYlXMmJojN7hMetku8YtwDkZ9d4F6UJkxKHFqI4k3Rrc7PndyexUWn823lIYO92IBhfloQlBBpfK5UK2tCvw2gvV7v4UM6ZNrKZxIWzq4FC1CJKDwmlVTiIe7gkGKYbbpfR-dQ4B5bPoedAvvvh99u96ILLa9HEDseD-7-YWMTUCj5LtROfSmofrSgv-2EvRKNvuOtoEkzFk1h5USijx7EH09OXXSKurTkbP-Zb5BDxpjbJv0dKavj3TXlsIs3e8AAoechTBjoifXlL0anpqEU783ZUhx0rSgFI-y87KukUT6bhHM2YmfsDPRCgQIJeEHeueCQ69FO-pyJfy1wbJiY6yGnACgbzr0FDOA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=113255",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdJsgKJ1kiQhdTg0mu8sMc_v36cuTPPmezTXAt3PTCfWap8sHypFtSnvwNW4X3ckYlEMLsizLAzvnKOrZAwOM2WqA7Txab-L2bYhC_cFBjYVTd2W7WCCIatsjp6s5Hdv_Njx-e2g04a3wVv33KjQANt0KCWdMSQB7TQPC3Ehulqw0_48Mc4OCVRaef_KjWuSvvfALschKrrcLhsFBGdFwLzTwtTBvWDx1siwCBEVSbXK5QNLeFSb8kh-x2tJOgDhJpeQ8cmOxufwi7pStt4dZJusmT689tMhuwqU41ZgkTw9A&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=125848",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcmAhceKFairGNtlyqvd05l2CilbNJYc4252GYcYem6MoM9GXUWIeyTwlAGe5HM4vJQIj_WgwH6Be05Y6p2eHNFkvkumNClNKvi7x_DyZY9r7qe6U2GBQ54YTBe4NQQb9Z1z5UzoTsqwqQoUW9TXNIAHV4fCs5cDXsv9DlTp4UIHpu1DNvcpbFko4ABXP-CChyBevD6RpJvqN469yMyFtINx1b3R_jRVCAFKO_T994pZ3ygqXe6oGYxe9RrDhKkm6vaKQ5jWkMoeRZle1QoEKiVCVwFXPhmMq6iT2SPTvRLlS7PQSF6fgn-S8x5gIeItVqXuEX_teArnXe6xMkd_sHNqAMXHzvDLr2OgAHtevYLbKLv1_SSze-vJ8MfNVkjGyB9o01itPhVly7DJSJefQDQN0Nq1VFpzuOA5wnTZW17_w&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=56710",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfEgBdiwCOgfiKT3Kq1G9LGPvdP4vx9kc-KFkg1G9ET1fWA8AuuBxpZ24JKr4X8Vo8utQ3SF1dF16qfI2ki6H9co1I6l7Z9tU5DeME9fJWWlTlRw8KesowSPsfswweLvYbl6AoMnd-nEsfnugmB_HrGrkqy1vVST_YxVIurpyWxdJbjtKkbnA5Ga_G373nqxEcvFXX1zRd7lnOMrzHiwBHq7J9GkSc5i3tYOX6rqUJvaOH2iYsIocomVNl6etsxM7wTLp52wn2MrMwm33IYXNgI1Y4TPkqUC1XCg62l8FqUuR0zC-FYeu0Enms5XyidxTJuNwoKer3JxEpG2K0z-Y2X6_TY7UJJQNaNGlLx1kItj-dip9jcWaNwPYIvzuWBdKXs1B5ky7MQmVzritzX0sUljeUtopc173lgCw1Y2OEpyg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=123149",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdM_4_C2ukKJa8IL7UkuBa4Cw1g3s0hBFWqIFupOuSx6WdUH0gFMICS8HyiIRh9WT9opmGqhq9ackx6HXn64vzVJ3hvQt6Q6FZtoslRd5rz_IUGAmxsjWKMVeu9z3kfZ0r9BUSnXJui1PKpihJtDzMtG4q4Sm_aPlr6lDWZ5rFaRB82yOmsGyIydvEMbx0KbnL9PXs1zqUXSixPWuTVgl5kiTgnIJacIWWhWiQL0R8mVkkFJ_T4_S0z6t8aqBgMFxc9o-vEr3pWTjZznOYZ7_DZvGWh-9bbwHXDlXx6_h3GxxbycD3s3cu7zYZ69eqe5BBjMaHaDXYtrn6l4lS761GToLT5PP_nCVeVtXsNFAFRREDPO-PVawf1MEY9lSnUR-Adk-nkfqVT8xfdFiSG7ivZBJpoXluKNhCqFHRTWAlg4g&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=12181",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeHMwwhL7-wdh7-e1v04BvJ-VtSQHPMsraTFUxbmO8kA4RdgB40Y2bcJIXTbhI2JH4j5UQx6IO5skA4WcQhd6H7LZCDZhlhCu3JN_KQ2psacWh1hH6abENg2WruyhWBDfawozbJyq_KD1BxQvq1jSE73rtIgsmcXVXe9pWWBoHQrwFPhMxwast0IS6_kaI8SPRX1NbH8i_0i_RUXBDTPiJZcnp-PPQ2xeMkBsygKcJunEZwzQoMx9_iiEB0LzBR-jpeSqnGigCXOYviE4bMMlsmD6bc_9_TFDYqOr-EY1sJgG7A6ufrmL5Kq-4ApfvzLxMZlut6WrfpYVfVYP4tUGvmnGUjH2cA7Nypfeht5jGrp8iSkb1MqihqeP6gdp6TZiD4b0wMtDPj_w6QJX82bHHwW3P7CSoTZCcgnZuMzGFJEGmc&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=50080",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcmozarr1g49aBtszVDOTn19VYJPaOfdPzCWMMGjUIhG9-C4Fzplr0URn-EkzznDGj_hRsefUapJdICaDBNdnXd6mxDpwFiPw7NbmHVdmTwpq9Tp6zoWA-pBHGtLSQE3yZKAu0OaE_RpQIFe9LEGRri8eZKDsVb46dt9SOkjfZEgVB25eyf1R4QYtx0ZM7Sxx2eWe0u0HD-x9zS9oHSxlXmEfRBn2DwaCyrx_kPYZqmNzFdcl2o2hpIsfdGnmg_cyZMywk34sT_owyBj830RsWRZ5PPW8LEM_BysTzA52TCeuLhTtVjBjNwitgmZvVfZshAWrxz9oebMizb5GYBu7ZYDMCvP52k7SYKGuQXLKIghMRRNvZDHshsHcBZ8py0uOB1GbmTFrxSOETyBvM-YgXtkCr7JAAC5lMpg17yBRPSjfD2&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=47276"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Ellen Freeman",
+        "author_url": "https://www.google.com/maps/contrib/104539851162218503399/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL3TseoRYEx-2uY5pVobYsA3bQ1SSEUKqEtMSHlviUb5Y7S2w=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "11 months ago",
+        "text": "Amazing job!! So happy with how my roof looks and how professional and affordable they were. I I’ll use again and highly recommend!!!!",
+        "time": 1724803630
+      },
+      {
+        "author_name": "Chad DeSantis",
+        "author_url": "https://www.google.com/maps/contrib/114525130230854940881/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqcHNi2KlftS0F2vVcQ-Cdw2oJTDUmzH0ahmZ7iucs7QDOPQ=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Great service, wonderful team, very detailed on the before and after walk thru and offered additional services while cleaning I didn't even think of to clean. good job cleaning, great before and after pictures. Above and beyond customer service and would not hesitate to re-hire or suggest to friends and family.",
+        "time": 1610636296
+      },
+      {
+        "author_name": "Shaun Simmons",
+        "author_url": "https://www.google.com/maps/contrib/111928501165123756240/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7zhIUET7wDTCGBCim4zjgDFndgbVx93Vo05WN1Y9wQJufZg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "I just had the Magic Bubbles team out to my house this past week. The quoting and approval process was seamless and digital. They were quick and courteous and I had an appointment within a week. Their team showed up on time and got to work. They got my house, driveway, sidewalks and back patio. They even managed to get some of the spots on my siding that I've never been able to get out myself. The team was friendly and efficient, communicated any spots they thought might be trouble. I had forgotten to move some of my yard decorations out of the way and they moved them to a safe spot, cleaned and then put them back where they found them. When they left my property was shining and there was no damage to my yard or anything. 10/10 will be using them again next year.",
+        "time": 1706284427
+      },
+      {
+        "author_name": "Patricia P",
+        "author_url": "https://www.google.com/maps/contrib/107422853344879681126/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJGXEgMKcycYf_5zAuL4c7Ol7sQUmVvuOTNePx6IykjwAFq0g=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "We’ve been with Magic Bubbles for 6 years and this company is an asset and  best in its field. They clean our roof, power washing house and our pavers. They are professional, respectful and wonderful to work with. A great job every time. The main office is also fantastic in making appointments and handling our needs. Thank you for your services always!",
+        "time": 1673369777
+      },
+      {
+        "author_name": "Jason Schlutz",
+        "author_url": "https://www.google.com/maps/contrib/115445256085548936092/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVsFliCOg_iPxvtU5Ac3TH5G9bjWbDxUvIHtWHr5WuDKi91RRA=s128-c0x00000000-cc-rp-mo",
+        "rating": 1,
+        "relative_time_description": "a year ago",
+        "text": "I have been a customer for five years, during which time I was dedicated to the company and recommended their services to several of my clients and friends. This year, I was charged a service fee before the service was performed. When I called to inquire about the charge, I discovered that no one had contacted me to schedule a service date. We arranged a date during that call.\n\nHowever, about two weeks later, I received a call informing me that they couldn't perform the service unless I paid an additional amount of money, which was a 59% increase. I expressed that charging customers before the service is performed is inappropriate. The customer service representative was rude, and when I requested a refund, I was told that refunds are not typically provided but that she would speak to her supervisor.\n\nThis experience was unprofessional and not the way to conduct business. Consequently, I have canceled my membership and am now waiting for my refund.",
+        "time": 1718807605
+      }
+    ],
+    "recentReviewsText": "★★★★★ Ellen Freeman (11 months ago): Amazing job!! So happy with how my roof looks and how professional and affordable they were. I I’ll use again and highly recommend!!!!\n\n★★★★★ Chad DeSantis (4 years ago): Great service, wonderful team, very detailed on the before and after walk thru and offered additional services while cleaning I didn't even think of to clean. good job cleaning, great before and after...\n\n★★★★★ Shaun Simmons (a year ago): I just had the Magic Bubbles team out to my house this past week. The quoting and approval process was seamless and digital. They were quick and courteous and I had an appointment within a week. Their...\n\n★★★★★ Patricia P (2 years ago): We’ve been with Magic Bubbles for 6 years and this company is an asset and  best in its field. They clean our roof, power washing house and our pavers. They are professional, respectful and wonderful ...\n\n★☆☆☆☆ Jason Schlutz (a year ago): I have been a customer for five years, during which time I was dedicated to the company and recommended their services to several of my clients and friends. This year, I was charged a service fee befo...",
+    "averageRecentRating": 4.2
+  },
+  {
+    "name": "Pressure Cleaning Orlando",
+    "address": "Ocoee, FL 34761, United States",
+    "rating": 4.9,
+    "totalRatings": 33,
+    "status": "Closed",
+    "placeId": "ChIJifDAwgd454gRP92l7OUpnqs",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.569278,
+    "longitude": -81.54399769999999,
+    "plusCode": "76WWHF94+PC",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 340-9591",
+    "internationalPhoneNumber": "+1 407-340-9591",
+    "website": "http://pressurecleaningorlando.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=12366367694300503359",
+    "weekdayText": [
+      "Monday: 8:30 AM – 6:00 PM",
+      "Tuesday: 8:30 AM – 6:00 PM",
+      "Wednesday: 8:30 AM – 6:00 PM",
+      "Thursday: 8:30 AM – 6:00 PM",
+      "Friday: 8:30 AM – 6:00 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfDEu_1m3IsN7n6MQCYRESz8BwXgzoRoHGxUv8edq3IvIYE9Fy2dZtCw5OdKfGFgYRQyh54TU82kDxKmb39VZvjHz3IMk3bzNJcJAlGs-WalFWQ6MBx6GTdPPiF6hUj1_UYw69BnJRp3XvaVVw4TR-Qbp8S0fS7C3w9p6aa2mrv3Jf1cuE-WVn2g1FbPRLvjqOyAo6mQhK7O28tjoT6MXX2IDHP-iUEGeMZClI4lqmag1wlsk_0Sw1n0PkhR3Y_GEdjnoEpy7pMs6Fna-EUYf2hMgDYD34sDcsF5YOGBIOvgEcNc_-pA8w7_ewBrmuQ9VljQCgkyRXWgW4srhMXJcCP-4z4q0HfiduGYIQ6QYZi8pctOP-xkeHzFAjTZCoOh0R9QrgX34QgX66r74RBgkM0XWlbJTO2D1IX9r7HLXJhyeWn&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=64224",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcx_YXyftGZB8Ki_i0DXbJPIXwRNB3nJYXfNzp0DlY9khQinvm6lbvGCGcgfiPd9rN4j5UHgviijXnTMx8JEpR5YMcED7MM2W07jvaB6YXpOeE7AfHhgHi-1HH1q3d1e8DZebosr4zuPYAuYFs5qymtBMXnJYacUOjhgqvVGZSFPDLQtb0WLkAd-qxq3LKqHXwrwtHwdlLEMMkGmAe1SWVW_q2ikRWUIakVbyG9wtaVIQPlBqNCNHMdYUYySa73gFxwf-GBR0A2U_OgFmIRIJgfaFo9kCIp9AnebZtsjW0HXKDQ2HPHXH9gGZzYmsNbFaYaHStr_61YlGViKTPg9Sn-fcuHXzZpe74dq1hQvRAnKnq1j79sHGYLrBb6N7h2cYl6PtC8upGT32A_UBMx_VfeeGS9dV_SE21nxT_tCZjSJg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=419",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpezSDDzjJzgSCmXcHkigyw7MBZq0qPVo09OR4cOTeNAAOaqmch7G3yC9lhWTO_C04DVyC9gvXIFBu3aQnYenaG2KeRsf4fGVkMxPZI3loyQogJIvJFJpv3gDYijJCm5sW6l7Wl_yX075e9Bj6ErRxbDPAxGenSewYO_lPkRxv2_7lnWRZecHEZ1cBic757g6dwUZwz3VY4GupFl-7PefY5p77uEpx_itP_YRygcZR2zW2_nNLE_qf6HZsekuG3Bv1LmrnbOvG1o4ohE_R5nOKkgBJocuzQT1I-PVqY6swym4_3jhifbzngU3DMG3BuQB2eSwWLXV5d_heTHnmk6i_2bGW59IMfdCxei1H-JT39Wh5W_HUPppD8DyfjutVTehQFFAeNqwBR7vvPp7P65BTYyOkzTwPh9HNlnHMTO1nEe0w&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=93085",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpffokQSMadwU0r5w5zIVWI-dOIdgWSnBp2noLeZFeWnZD68XuuV1YKLPXQR1y2YEh-QEnghSl0_PUrCfKOdyPaviCgMiOuGTJuRq25b1a7pf9nIaIZ8SZNtIdrLvdrAo36hXdlZxy_euVvMgnlMuUfn9SAxuJrJu2y31SeHIpEgDevvWFfu5N1dcEc1RbrKL7QTIDeIIEahnchn6_kbfIYqrDpHnfk7r-gPRaN5TWXaaGwsznl2AVXOKWGD_rgiyfPBh1lHWwYhjQJhXe5hpDUhN2bTW2hk-rew44qS0oacQ5Mhw0pWxIAzbYLA2RAeMeH2hh5C1Wep7WREV6k28Q2I1MxVKJOu2cBl1cpn9d-YUzPiqrpHvdYqGq5sJHX_toIzuNbqRK1WrsKCEZCxPusTakgbOOGoFJwXauDCl7oAOA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=19616",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdslVjFBqvy6vXYrlPHvO_4diqG7X0i_cnpkbIuQqH7sp2C6rT_4bzOP48E6q3EoCYB4bjzKTmuGGW6NzDg4uBjGS-suBBoKSISRvTaYoh7BEZLZuU2YskWvsc4bGWx6XPLl0dKbAmfAJMqAa84_ikfsWmtdArkXwsItblajqJx5XgdRG903gJ8EKqH2ZiaVIr0qqAiU96DHh5yNj_mJh5xwNOKE5XJRqj7S55gZo0e4xBXsQnaTfwtVxF0SUFZAyMDALg7eCDysrlUhPENlCKnt_iuFr3bRECBiD87a3mW27HzA91CcZ_jzo7fypfGKfYk49um8S6oH_Ja0WzqIbK8yJgKu1R4Bw5ge75T53Ng-PY3563eC4Z3QuKevt0fSed17MTunQn8x1NRVhy8P2ps43HJLRmcwsZDeDluxeDBP076&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=63568",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpejGsIfnzR6iYal3NEMucOw-SvbqKpap1c99Y78xkPtvhr9_CFanA9rG5N5MeOmfMkBDDWvBKXvYLxvbl313Fm7xioG0vdz2X0xWcKGz6xXOnBZ4Ml_olxL2ONShFZbeqEiiQI7b1Xo0Z_y8RXtScIly4WQMLBJevzpP62CEsbJkjc1IXcTxYhofo6o8xN0I9nnfPptAhfmwoEylbhdbkyl0eC6pjMXUflfN7wgMiMJ1yNuhiWnhTrTEl-GY0vF36I2XXFClx5DuQ5t4fCNzarqecifxY2Xu-Y6ZFajcRN37J9KwPoFbLgPGea5puA9BIq2aFXOFfN053IS69_qWjZxAjBQs_82OMHgN6EHJqImol9LYBeZCcP5KeYLVzQkdZR6iOp1-554ZVrTVeIvNLF9nkFPgK7prBCKLtH9JAOtoxY&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=74874",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpca0HnKZokBJ0bZmquqNU8fCg8iVzahFLufr7j2BuNQYfYaw-KvDWyP3sctvM3WWUS04XBSxrrGFKGv_sspRR_wkfVCO_CLVjsy0uL_9-TUBXAkmFMYjgA3WvlDsowTj-2_AifPZ3EPPfom-0w7WFDjoIbiUr_EozKtjNj1sNrQ9Drw2DHN6FTZhmish-VA5li66MlnDH6n86ptWADaH0yATqkKSXXmnbpagfz0PFc9bTYXMOWbptcDKVWB-9X4KArlSWKyx-Dh7jby4tpU4EAzkHZNXMeqvnwxs5ttkwbWzbEMYls0uqe4lpJLHaWTZqoE39cpbOFnwjHpTJUTnD1fUICRdrET4yDznildaAtsqG8t2Qx-_7CEHlLfGdB6n3g1dTqq4wq7SAKczX43pWZfttlJixy6DlnDuijP5sLY04v_&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=5066",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfyjVpghUt2daB5y8tn-W4XdyOvlLdIfYN_6fO9CHgvX4rjihzQe-wtibIGFyaUO7J2TScDRFnzHGzRq0-0BYOnb5Op5S9n3lpT2t_8DAYlqE8l6XlKd5X7vMVlN7vD34J5j8VQzCKG8VhNedk5N89RtQLSL2abUL9mxWQjOxh8lUq8vBhnqlIL3vgmeMYsKZE2f54ssCfW2Ox0CNAfXzXeOCTTbZDhjdVY3X3XykAFZdzsm3mdfDz7FSWmJIjUR1tMerRJmrIkI4eibvk0rECDBwX5qKeZgcoNZjQJMH_HcMfqMdI-APFu9V07y4HKcvB_rpASAj2ywA2gGa653nqAHqQtGL3yvl7tKmH5zPy1dh9LK-7nwI0h0twOPYhAJMpcX8MRCuFc-yRN73cIg7BHR1QFQF_O5-45xMbLKNfWbrw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=110755"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Johnny Dyal",
+        "author_url": "https://www.google.com/maps/contrib/104191055776738608174/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6wKo0hf67AYyuxyEkjI6S7PDtPnMNEPY45BLq7oZVYSEjOw=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "\"Pressure Cleaning Orlando\" is above and beyond our expectations! Garrett the owner and his well trained crew surely knew their business.They arrived on schedule, gave us there plan and started working right away removing several years of well water rust and grime..They pressure washed, all of our pavers, added new sand and sealed all pavers..They made sure all funiture was out of the way and placed it back exactly! I think our pavers look as nice when they were new!",
+        "time": 1617053641
+      },
+      {
+        "author_name": "Jennifer Lapoint",
+        "author_url": "https://www.google.com/maps/contrib/110547675973753427116/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOF2NQ3aQb4N5RB47gstcnH2Ei0OGoSfyycFTL9VQz0X1BmZE=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "We had very bad rust stains on the driveway and the sidewalk. I doubted that they would get it clean....but they did! Looks great. The worked very diligently and did what they said. I highly recommend them.",
+        "time": 1566941016
+      },
+      {
+        "author_name": "Cindy Sterns",
+        "author_url": "https://www.google.com/maps/contrib/102368721517660872820/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCQ0HHcOwlkjzKvo6OzQNuCPdVuVp8gLwjVYtk5RygHKjQzQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "We have been using Pressure Cleaning Orlando for better than five years. They have consistently exceeded our expectations in a number of ways.  They are quick to return messages. Appointments usually occur within a few days of the initial request. The crew shows up on time or calls if they have been delayed. The crew was careful to protect our property and they have always left the work area free of any trash or debris. The quality of the pressure washing is far superior to other firms we have used. Their prices are very affordable and more than competitive. Pressure Cleaning Orlando is our go to firm for our pressure cleaning needs and we highly recommend them to anyone who is looking for a first-class firm who does quality work at a fair price. You won’t be disappointed!",
+        "time": 1675545481
+      },
+      {
+        "author_name": "Lisa Marie Spradley",
+        "author_url": "https://www.google.com/maps/contrib/116768380344138543318/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWifAPQEsJFcBS58P7OjSCBoaFqKmyc9q1aMskEOy141vtN7b_c=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 years ago",
+        "text": "Garrett is very responsive to his messages, and he gave us a very fair price with a discount if we did everything he quoted. His team arrived on time and worked diligently to get the job done professionally and in a timely manner. I highly recommend Pressure Cleaning of Orlando to anyone looking to make their home and the surrounding area shine!",
+        "time": 1579954422
+      },
+      {
+        "author_name": "Andres Facusse",
+        "author_url": "https://www.google.com/maps/contrib/114185153089201717503/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwDbIRDC2ht-vR8pXwLxTWM9R74dtGcjHO2i3tzYLF2LroCg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Garrett and team are always on mark to perform a great job. They take care of everything outside the property from moving the furniture (and placing back) to careful walk on the roof to get to all the crevices of our tile roof. We've been using Pressure Cleaning Orlando for many years (since it was run by Mr McIntosh), and now his son Garrett continues to build on this family owned business! Keep it up guys!",
+        "time": 1620099733
+      }
+    ],
+    "recentReviewsText": "★★★★★ Johnny Dyal (4 years ago): \"Pressure Cleaning Orlando\" is above and beyond our expectations! Garrett the owner and his well trained crew surely knew their business.They arrived on schedule, gave us there plan and started workin...\n\n★★★★★ Jennifer Lapoint (5 years ago): We had very bad rust stains on the driveway and the sidewalk. I doubted that they would get it clean....but they did! Looks great. The worked very diligently and did what they said. I highly recommend...\n\n★★★★★ Cindy Sterns (2 years ago): We have been using Pressure Cleaning Orlando for better than five years. They have consistently exceeded our expectations in a number of ways.  They are quick to return messages. Appointments usually ...\n\n★★★★★ Lisa Marie Spradley (5 years ago): Garrett is very responsive to his messages, and he gave us a very fair price with a discount if we did everything he quoted. His team arrived on time and worked diligently to get the job done professi...\n\n★★★★★ Andres Facusse (4 years ago): Garrett and team are always on mark to perform a great job. They take care of everything outside the property from moving the furniture (and placing back) to careful walk on the roof to get to all the...",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "Orlando Softwash LLC",
+    "address": "1360 N Goldenrod Rd #6, Orlando, FL 32807, United States",
+    "rating": 4.9,
+    "totalRatings": 45,
+    "status": "Closed",
+    "placeId": "ChIJ_5qHzYd754gRUUtY-Nk3cgI",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.5629801,
+    "longitude": -81.2868234,
+    "plusCode": "76WWHP77+57",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 934-0735",
+    "internationalPhoneNumber": "+1 407-934-0735",
+    "website": "https://www.orlandosoftwashllc.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=176264744734837585",
+    "weekdayText": [
+      "Monday: 7:30 AM – 7:30 PM",
+      "Tuesday: 7:30 AM – 7:30 PM",
+      "Wednesday: 7:30 AM – 7:30 PM",
+      "Thursday: 7:30 AM – 7:30 PM",
+      "Friday: 7:30 AM – 7:30 PM",
+      "Saturday: 9:30 AM – 3:00 PM",
+      "Sunday: 9:30 AM – 3:00 PM"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcbyrZto_ldvd78x4H4tGXX6NBrYMwDIpEfyIebyYkzE0zwk3bzmFWSt3gm5y1YboHGaFbcNTvS2WrKoXbOyHPQILvajU4AXjbs5N-917X6bc63LJxyrQCGJoCbMQ72pcTaGx7CwB7TsZ7z_l7IHmv4_agTW22l3SKyJRCwkZgTPNwdedbW8kqxMywRtK2cZuLdym8F_IrGnURG-cekS6iCS9qUjJMBrEWLNLdHFpfwfRI6YQTgIXCaRrU1jfnN4ATyRbkvMaG4RzSsn-B86SAsdl0sw_GPjO2_EIiyzJkXcA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=94464",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpc78cxoHw6gAxXfZv6v7I1AYFXZt1Yl0RnbtxlxpxG-q1OUOGsc6cZ6pJmjqemY7xrZlRQHSOzSHec88tvYgWEqAPsFrcIbNe8IhZrlSs-tnzeO8B2BNAexOBKUv66IPmgAfYuEKrsidJ6ifDYrmfczcoiN6eo0BIx1bRGw8EB-FSh7TcXUaiR_NeRGafQDQI_mXCRj9SG_WG3RqK3tfXua0BwjQq_Sh2caID4V89yOhuOhEVpdbUrllV4hjWfFBUDQBoRV4PmQ4Ynx8q4OyNLshx6SHctVTaZggcsqnbprgA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=63695",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpc_UG8BcFWXhwsCFV4Xibda_tlZxWfDqn4va0wOOpPhoHY_1XPsUp_XmP0TmcsEB3_Ddyr0dHABa4LjEukoFp_2AZ5IibBXv3sHLYfuBnk6baWBlSXn1srU8hn5w0KCqUz0DOwwLvuJa3KA3GEatcruvaTnM0p3Oxz_TLEBFZb6jWb0fAnH0my9o9b0PmVA_22c83vpULCQ7hGgPIltoWPXEDxLQdAWkkiV-QJmnvQ6EALoY_D8Ic0vC02OKD-ZaLNjEIf2c2uCDxoMktEwfKUT2s_nRxXUfmZclm-AZa3NfQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=45653",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfte5oWVEs3fJG-aKU97gXFkFXauD1Xo8HZrfiTpO8LdRIGpCJPhSnyv6RGtYgJenHL5D7fkDP194Mhm2UDozMXkTFLGBiD0bExPHBgQkSujhgYtU0Oqh6nyBqdJd364H4CyEJUahQz4FDpNbKQKMbl3OvQ3-IaOwTIhIk6mkgY0IVQdU3lVutK_H8LpcYma3-i7XvpCWP1Qb1014bcl8zp9so0o9MPH_f06vKtcSbL3ziPOKvzeMBKnQiDfICm9UjlKvswvYriPGHZMhEJfkLHg5NC9Bm5NYIhBbjZl4-Kvg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=6854",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfP0jD1ACHQr2dxF2V8ItKvDiXzXP1WTzJGhVp8oCJvczpxaohsnK3qBmzBsFdi_pXQpDOMWuFHK1-wutaJTBrlKwEu1DPE0guUaWNv-1JLmm6zwa1__xhQlyUGNy6cyGOSj8RIY03FvIBlwkpl80dqm-kk2ibtBKy9Lh5iGeQ75dN0tYitRxGBvmbuFR6zSJGC_rdp5h_mS6JbH7t24Q7zFRJOT7_veeRvq7uMrzNrobSeqT6noxGP1JAaPGUbvSiOMfdUJSvNAkKAbyVRYHwkF5hWcyA1rmLsUd_MPM1VZw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=64732",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdtIvpDWUu7pX95hgj7JGDQZmxx15CWAKuPd6_Id-2HKuQ5QblNBd_88uJ8wxHwoaQ2elLAE-9v0jmuRpOnRFL567NcK6iTrOCLK2SNGAAoZborF42V_1chb-WqGzt333JvQIeBB3aEmhx8CvKK2sf-U5bikETNja-kwafLYZCqkYt-G8rUHFiIcxA5gwRoE76Eg2qAiui7dtCMvBGQm6W4I8m2NOkwAyeOWCwMmhpfgk6OA8FrFpSxk3dtiuQ-QGOtei0r7gBFnmgIg8HO-AmrwvInUu34C8aBqfC9dByX8Q&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=15463",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdKJ5P9W9USYmK11F3O_6ao7zkJv27TPczkMxo9j9ejwRwwNS_1Cihrw1Ao8IVBIcNHOzfV_mQPTSOhNoTKttQ_h2mBNHI2rlp2hECql763Y2egjN1RMapPL4qzkTXLdW7YaPVk_uJGuzYQtPBiQWp6I6ldxdHhfT7UMms_8EpJoT7LntlDNDqkqgb1v7h_oTS34SL6yo7qsCr-o2OCGSbKpIA3256ypFBuMZZ9J-ZYjuJ5VwX0KVN86vHpHhGLdCtR3BPGdosS-Gqq9Gqq39U10quGW9G2QG5MrLSOdxCoqP1TfckiUzRwiJ_jQ9AlcxDBS_v8ttvviPPeaoU0XPZ4colaydKrqe7fzbpddjMtwbvT5mOFxvzk--1pDYk1ca_ASYh2P28Nxt1Wxyf1SxvvAKBvZaCXHUKahTsTbtsv5Q&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=95119",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdytiMWPDfHYP_kgPpdRyIg6myTw-xXhBp9gxGDK260MULmJzcm2mHs4CGk_A9mRSqGeSYlgn6sbZg3I8kJXHCC-52CJ5Cue95lUyF2rEekrKV6fzyWKpgBknWm6-_FbID445D3_sPzsCV2vM_1PbCrvi17zvkKzJ5AqczeiEQdt5uvl8pR2GwgZDGBmo7v8TjVHvepTkuyisbu1_9bLoy1Qb50uiqcelCdIOAVyfn6Dmqa87bpRYt-gEGkuhXxkitH58diwtaMn69NrAtCPXjRCEe3rb9F55aUUN1TIh9mqQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=56750",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpe3qhTVdtJWT093a7FdhYZzXR6RHOhEbnRvD_RKTTDx1P0_uKCUb3xszuWbwjhNP1sRi3lzNecC2Xf33bg5pVGiGAGeMzaDZMwAI9qaki2pzNFyRrmaQFzE57Hd7QKFYTspfzkKUFo9DNeaBHoxArynYKeI8HJsjnY6PCFpq-7Cx7rLjWskK7UKJao_C8M_lgOvJkjBBLoG1D2DDZvugJMiWGd7lw3i-94GbosAaXIpr4irPCUJOlK9x9gV93WCMFS_95poHirS966diGLqVA4-dcruGoNc2rZTsMBto9NbYA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=20422",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdW060DZtJVyLO-D62J63ATHWudEZ2PqRZFyjXUQdAblYW0uICIhkQ4pkJoa2x500y1uHWJvlBSTF3SfX_XFjRtbfFH_FWYYiR3ozEbFrJn2QxFGg4fZM1SxTNdzNGperjceAD4Ro-kG9UkXN_b2UtRzEcmE7C5mDsGRnJVl4ch2GCMO1rs27GJIgh2YMStmK_sW7JLQc5lE_Ttn6ugkwAfiXRzp78yJeaMjMb68OavyuHnZMmHuOz3_TvFN_PDiwReH1-DHJfqQD_0ml8BjJfW6Y0d9c-joP8N2HQWlM_Y_Q&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=44829"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Cody Chavers",
+        "author_url": "https://www.google.com/maps/contrib/106113812464341131257/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxqRpWkgjjgM_8FMX3M9otsLdC16Ja3NEbeIknw8-xIfcv2Q=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "I recently had my pool pavers cleaned, sanded, and sealed by Orlando Soft Wash, and I couldn’t be happier with the results. From start to finish, the team was professional, on time, and paid great attention to detail.\n\nThey started with a thorough cleaning that brought the pavers back to life, then carefully re-sanded the joints to ensure everything was solid and even. The sealing job gave the entire area a rich, clean look and really brought out the natural color of the stone.\n\nThe crew was respectful of my property, worked efficiently, and left everything spotless when they finished. I would absolutely recommend Orlando Soft Wash to anyone looking to restore or maintain their pavers. It made a huge difference in the overall appearance of my backyard!\n\n— Cody C.",
+        "time": 1752594628
+      },
+      {
+        "author_name": "Benjamin Branton",
+        "author_url": "https://www.google.com/maps/contrib/102771953614998188458/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJogxbIV080PRulKb-zWXoYLW_J6fwtl9ePrbiRPhcsKKYQ7g=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a year ago",
+        "text": "Met Orlando doing neighbors house was so impressed at results I had him do mine ! Very please with results as in flight path so roof , skylights etc filthy… now it looks brand new. Was quick to respond and has a 2 year warranty and very reasonable! Thanks guys, going to give out a few if your cards👍🏻",
+        "time": 1697725325
+      },
+      {
+        "author_name": "Jay C",
+        "author_url": "https://www.google.com/maps/contrib/113730115278037060499/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuhsbW-2AxQ4WVrgg05Wprvf1oRnFzPOc1nQTAv15pqvYoAw8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Wow. What Great service from Orlando Soft Wash. They were punctual, profesional and best affordable. I really thought I needed to get a new fence but after the magic touch from Orlando Soft Wash their back to new!!! Thanks I will definitely recommend them for any pressure or soft wash cleaning.",
+        "time": 1665518177
+      },
+      {
+        "author_name": "Danny Pressler",
+        "author_url": "https://www.google.com/maps/contrib/114668459733499675419/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXw8G9_L_U3srv0_Xr8CNrnvuH_CAv9SLtj8FG1DsYanGFkA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "We were so please with Manuel and the excellent job he did in cleaning our pool cage. We are blessed to have him do great work for us!",
+        "time": 1747508767
+      },
+      {
+        "author_name": "Christina Creach",
+        "author_url": "https://www.google.com/maps/contrib/102543787542725500150/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI312BHqb9wpEPos8icYyrct9xjpBohq03UfMrkyfLPT58LrQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Great communication from inquiry to completion. Did a fabulous job on our fence! Even the final invoice had photos of completion. Overall, great service. We had been putting it off and glad we found Orlando Soft Wash to take care of this.",
+        "time": 1677107874
+      }
+    ],
+    "recentReviewsText": "★★★★★ Cody Chavers (2 weeks ago): I recently had my pool pavers cleaned, sanded, and sealed by Orlando Soft Wash, and I couldn’t be happier with the results. From start to finish, the team was professional, on time, and paid great att...\n\n★★★★★ Benjamin Branton (a year ago): Met Orlando doing neighbors house was so impressed at results I had him do mine ! Very please with results as in flight path so roof , skylights etc filthy… now it looks brand new. Was quick to respon...\n\n★★★★★ Jay C (2 years ago): Wow. What Great service from Orlando Soft Wash. They were punctual, profesional and best affordable. I really thought I needed to get a new fence but after the magic touch from Orlando Soft Wash their...\n\n★★★★★ Danny Pressler (2 months ago): We were so please with Manuel and the excellent job he did in cleaning our pool cage. We are blessed to have him do great work for us!\n\n★★★★★ Christina Creach (2 years ago): Great communication from inquiry to completion. Did a fabulous job on our fence! Even the final invoice had photos of completion. Overall, great service. We had been putting it off and glad we found O...",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "LIAM PRESSURE CLEANING LLC",
+    "address": "Orlando, FL 32839, United States",
+    "rating": 5,
+    "totalRatings": 77,
+    "status": "Closed",
+    "placeId": "ChIJeU6fFrV_54gRez7x27JNmos",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.4859981,
+    "longitude": -81.4320166,
+    "plusCode": "76WWFHP9+95",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 223-8412",
+    "internationalPhoneNumber": "+1 407-223-8412",
+    "googleMapsUrl": "https://maps.google.com/?cid=10059438148274962043",
+    "weekdayText": [
+      "Monday: 8:00 AM – 6:00 PM",
+      "Tuesday: 8:00 AM – 6:00 PM",
+      "Wednesday: 8:00 AM – 6:00 PM",
+      "Thursday: 8:00 AM – 6:00 PM",
+      "Friday: 8:00 AM – 6:00 PM",
+      "Saturday: 8:00 AM – 6:00 PM",
+      "Sunday: Closed"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpc4X9qS5AJwxP_8L5ud14uLAWQPV-BO9qKZuERWmb4nGTj_8z0l2POAe4aJ3_uEyumPnceAbnFzQI8FRaSbPOEZa5xHvSM36H_cqhgjHyPyJAqK5afpIyUYeDG8RpAh0-pTUM8X8GjVqzDM7fbBozGNA6oPUbszk68FM_sxsPbhV_4zBxYsXZmLFRIpDTj_hM1m-gpvPSV4oI6ZN2Ma7kCstRrUVf-N29kRHvBakuGbQ8Wa9SQ0m8Hpl2NGdHW7zE5w2VXpLzFid2ksCNAooeJgV0_gzTwDkrLLJ_bA9SmrXRLgJRDqVKc4dOlBeETzbL4dA_bpmuVUJn8EqSbPcLAMOAKhjaR8Jo1Q-vXpmNBruYRu0JEbEGy3EGh5WbdKohIC69g7MC5NYP_3SvKKhbGglfG_tt_D6LajG97VXbIK3dGVmQxNQiecEl49jbaw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=17135",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcQqTZFH8dMmE1RcTSxOD_uYCphHywaKeqOG5l-UVblVv-_uxOAY1DuHrh8ulOEIRJjyvmKItlkGVBZXCL3PKssqgHz2sk78eATrvsQz4F5dTpzLsHCV7jWTUhl9S2G5QKTWqXEYOrZHLwCtS2rUNLQpUME_GJATBoNYU7PjxfF22wjLELV0JMq0CeiJAfjA8CcnyEoHS7f1qaFn8RXfp2SQbOlTqSHoiAZQsWBBE51HYPY8rQSbUaIFqtWjRGtq6slN42lxlhTMstFtGKnAkMM24iRorS1IhTwKQChRxH5mg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=79416",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogperSBB1L9j9dXOkIuSrRwAom2794n5iVS9TCjuecdxp0dU0lLNqGMeACdLqkwwHSIG8fzmzTteR3RRhWoqxhTcGp3XElu1_IZAtgcPqc1UaHlKFyAheqfjq0Inmffa5ypSMWItT5ZunBOV2-sb5f-klsYcj8iQvkN2abzIfWEoXFDgfJZeRg0oAz7lwB19jUB8_6WkeSW9b4pTYW8suTnnoQMFIIp3ItV9b_DsRHpW17iA5QPjxVLwr7gXEvBawY6Odg0HgMOsntb52uHndrqAVgaxuyFRm1h1L6LcoQXUQ2A&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=99640",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfhXD6amJcy2EAfJcTAFY9K1Z5GSpIFrUHIfbv4x6o-05YVXE53k0pfQMK7h4aA15FVQm-sGn0xcgdsCCdyNUmJ9zt68ynC8tDMRXYlsj1Ymb70Uxa6JLW6sRy3oeo-At2dXUNvwOUep0jr9XOE4NjAuwDTjbH9Gy14ZG7Je7U9NKynFtaq3C76pQK-HaiGw_1aKjURncupNL983gklGFC9PyU6oPLDb-bQB5I9KvBCLuVw-RVFQ2a2msL9ArbNDq0jNI8rAkNEeT-RsQQ_SRdWwt_csIXqyGMM50h2EudsjQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=35476",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdpjWDr4E1tWSCc_ZUyD9gEo9qpfDTaSmKPY3qExZAYwsgEUeVQY0HTBxOzEyxEQoW9HPaxAHDTXq9gieLPhg0JOPhS4FVWRDZ_sb5nFHuqiPZKZSFEbJgOWuwMt2U4rFkR6Rofrrafox9Y-VzSSSzQA4H05PWE8wfPwJ-z029il3OlDwplSPcGL9y6Yy0ve6GhI1Yszhq9F0LnqHhkx56avVlbxHEMpXLOxLE6X0pHenHn1GdJNYX0h1ZQ8MO3Rcj__-UfVnm5ntd5AJfFpley4TvhMy1aSqm3A_nKTHymGQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=36866",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfzMuOw1mjYUlf9jJSMNXU4YLM87BQnGbgcqslTZLfhgWJM-85tbVPeVPfX5qzwUqxxL4dSggeE4xpo9QWNKLx_w65KxqOxyKemQXhti8cRQDlwXp1tNyG7VB06pYxADG3dx7-R8-_vRoa_ET-V9losw90jAhLy2zo8G3WeoaYOTHOKAxfNYFmrhqHrx6eI0x7X3GMsPH2k3RLBYss1uafUzOvGCBxtdFgz_nnalJFiPqA8tlsaRmNW8yakHLtuyngO0pwIFbB7GJOOC6uUhR1bw6Vn1iKsDCoJ-i6hCQxH1A&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=106270",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeDnNfiTaIH99xvYpgDM2mnOdIBMySHk5sswbpHg57ezlcdfX1LRxm1Vpm_JYLBVaqoVObBfp_mbwerulHfOnFPHdgZk_ni9joXizsKjZWBNHN3iL6J_65Fqmfaxmt4YfI_wksYnXrAIonXPl8WqONed1LTsCkqaCNDhcIlR2u8eVGEL1ksym6lu9L2Y55s3izoca2FaYgo8oi6s8Rcs5HQuK9Lct0q_6H_37YIOs5VjmDX-g4l_br-YiIAFZcQUKO8_OsgMZREglsNJo6wc3i_STwfAGITMcFlP4V9flr_qQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=43611",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpf9SEx1JgFGHW7AoBFf2oQIEMBeMPBVJGLPjaiZcTJE-PFlFxxhsrNquuLa54bTeICuY8r8dojahHv5psjyGpqbRO_ICstx0IoDCCaTuEYE6V8710uZDf4zG9wgYyGbFvbVX_zBwhyGvhKz0kb4D-12zCV3Hy_Mu9Ob-aFvniHSDu2uZNb9UVj7TgfKYg7lveXxbbe6rzsz5bz7R-2yqXGbwpcNLOQ2Mbi4YGeEc398y2SslqFOJnLDijS_HEpMhnWAuu1LW9Kd6nLndAgQs2mNmoRIkOljEqZ_9p5BS2y6zA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=75142",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpceUobt11D-kvaJ8yVTl6bofD2mYXFN7NVUWrAIy7O8mg4z8nIbsfOMkPm67VfMUAOw-0foQa_-ArvrM7xcW0bX9_zD1brtUzeNPRgZxNJ7ZrMnEFf5jx1Mj6kJzARXmx4S_eRIrEzBuhKMrbuI3N03sUr2SZAhJeWAhJIHCYiKEJxt3RQtUX2gbMVwp89CIE3hPBFGiP9cosVL4Y_gGs02USbWlTm1AbSWU_y6KzYEgwL7SXxd0oE4rBy4-WNkkK_1hRBVpF8DG6D3YGaBowbHbvb_4paAfHDHv2dgnHKNxA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=47907",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfZpuhqcITsRMD5_I6KBOmN4-DtCA8vwYpTzBIFnC45b8fPwsyUMnDEFn8NKR71vuK4Vg8KvyeyqKGQzGvZsb6bUADvWr-FxMe2Qh7qNAVWuyulzB8ERAHt4F83YkQmx8yFnregbqSn2NdhkojKrRYYyatJDW7XzPMUINxpnlTdiORdgtqoD8HrJyfdsHzBFj5WbjOpbtRaMgtEoXzP9xR6Ccz96SYb8bFmWE_xadC9UuiOParl8fjlFwLx3Jw45Cjt9tniCUtzyLK2zaj-OeJl7j683pD8lBKwq15NCqVrkw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=130805"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "James Daniela",
+        "author_url": "https://www.google.com/maps/contrib/115925916650119542668/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXF8Sr1sf3SFl83Ej1VpX7XAHyWFD4DJg613hjWadis49pBcnY=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "Rudy did phenomenal! We can't believe how much of a transformation we are seeing. Rudy pressure washed our front and backyard's pathways, drive way, porch and its ceiling, all exterior walls and windows, and parts of the roof. It's like night and day, we didn't even know the color of the backyard pathway until he worked his magic. He did a THOROUGH job and was great with explaining everything through. Never received this high quality of service before, so happy we found Liam Pressure Cleaning. Wont go anywhere else ever again. Thank you!",
+        "time": 1737571247
+      },
+      {
+        "author_name": "Sincerely Lori",
+        "author_url": "https://www.google.com/maps/contrib/108343538250378729460/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5vgqPFktjGZ5qWqmGxum2HnJChYdluuuNv2xeO08ouOS3lwvqjQ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Rudy did a fantastic job on my house. He pressure washed my driveway, patio, vestibule, and the exterior. My house is noticeably brighter. His work is efficient, good timing, and reasonably priced.",
+        "time": 1750806472
+      },
+      {
+        "author_name": "Gianna Ramos",
+        "author_url": "https://www.google.com/maps/contrib/105229266851637616259/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgyzXrKjm0crdfPXWWbRrqdcDnMEOCrNgb70pQSrWOqAlJNo8=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Where to begin!! Rudy did our backyard pool pavers and our driveway. We have a pretty decent size backyard. It was NIGHT & DAY. His professionalism was outstanding and his work speaks for itself. I will be recommending him to anyone that asks! Thank you Rudy!!",
+        "time": 1689801089
+      },
+      {
+        "author_name": "Sandy Hawkins",
+        "author_url": "https://www.google.com/maps/contrib/113651225273653599124/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAPZyfEguTxt9q0U-17up-Vqgx7XPgbCn8sGUPx3aB6Sb4JCT8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "This guy is simply amazing!!!!  Rudy pressure washed out sidewalks and they are sparkling!!  His kindness and professionalism shone through!!! If you are looking for a honest and hardworking man, he is your best choice!",
+        "time": 1749753995
+      },
+      {
+        "author_name": "Chef Jason Gronlund",
+        "author_url": "https://www.google.com/maps/contrib/104655227008174999562/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvY22VcFZHgPtJjLS0zo-WyUlrFnCwE16rENlB6k5emXlE0fyzWA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I will tell you that Rudy will have a fleet of trucks one day! He is a young man focused on his business and your satisfaction! I have run operations at a VP level for some large restaurant chains and we called employees like Rudy Hypo's meaning High Potential, someone that will go somewhere and he is one of them.  I asked him to come over after the job I saw him do for my neighbor and quote to wash my roof of my enclosed room over next to the pool. He did an amazing job but time  And the Florida Sun had taken its toll on the roof and the paint had dried to almost a powder leaving just bare aluminium. I said to him well I guess I need to get coated and he said he had experience painting and I asked him if it was something that he would do He said yes that he felt comfortable his experience in painting was good and he would be able to do the job. He gave me a very fair quote showed up on time and he did an amazing job!  I would recommend him for any job that you have is he is not the type of person that will say he can do something and then try to figure it out hes very honest and works very hard you will be very pleased with anything that he does for you! The pictures are the after he cleaned the roof which was all black mold, dirt and flaking paint... As you can see in the after pictures he did a great job painting it and the sealer paint for that job is very tricky because it's thick and has to be applied evenly and thick and he did a great job as you can see!",
+        "time": 1620682991
+      }
+    ],
+    "recentReviewsText": "★★★★★ James Daniela (6 months ago): Rudy did phenomenal! We can't believe how much of a transformation we are seeing. Rudy pressure washed our front and backyard's pathways, drive way, porch and its ceiling, all exterior walls and windo...\n\n★★★★★ Sincerely Lori (a month ago): Rudy did a fantastic job on my house. He pressure washed my driveway, patio, vestibule, and the exterior. My house is noticeably brighter. His work is efficient, good timing, and reasonably priced.\n\n★★★★★ Gianna Ramos (2 years ago): Where to begin!! Rudy did our backyard pool pavers and our driveway. We have a pretty decent size backyard. It was NIGHT & DAY. His professionalism was outstanding and his work speaks for itself. I wi...\n\n★★★★★ Sandy Hawkins (a month ago): This guy is simply amazing!!!!  Rudy pressure washed out sidewalks and they are sparkling!!  His kindness and professionalism shone through!!! If you are looking for a honest and hardworking man, he i...\n\n★★★★★ Chef Jason Gronlund (4 years ago): I will tell you that Rudy will have a fleet of trucks one day! He is a young man focused on his business and your satisfaction! I have run operations at a VP level for some large restaurant chains and...",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "Loyal Exterior Wash LLC",
+    "address": "1800 Westpointe Cir, Orlando, FL 32835, United States",
+    "rating": 5,
+    "totalRatings": 85,
+    "status": "Closed",
+    "placeId": "ChIJERkcmJd554gRS3I7tBqYXaU",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.5213705,
+    "longitude": -81.5038912,
+    "plusCode": "76WWGFCW+GC",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 932-8067",
+    "internationalPhoneNumber": "+1 407-932-8067",
+    "website": "http://loyalexteriorwashllc.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=11915847429552566859",
+    "weekdayText": [
+      "Monday: 6:00 AM – 6:00 PM",
+      "Tuesday: 6:00 AM – 6:00 PM",
+      "Wednesday: 6:00 AM – 6:00 PM",
+      "Thursday: 6:00 AM – 6:00 PM",
+      "Friday: 6:00 AM – 6:00 PM",
+      "Saturday: 6:00 AM – 6:00 PM",
+      "Sunday: Closed"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeJKkPan_r1gmCzNZFYp_xr7CckN8D2rVotnhAYcx2Tfug3vZJNFrf5tHe0PiK7XJAawh0tbP72zESgb0-U3Mo24EBkiyTB-o10Ck13AKdRNQHkxWdkXooAd8ktxSd9kj__I0B5QfPvDes5rQA0EtPaNwziD9EdPd3fmBG9fnBvj0RcQHIP-vXVl8ZSrLnkSKm_Hr4ngRnwS_ZeSlb-uDYiA1Bjv2yrTAeU3vG9Ph3FXP2fASTApZAZNSMDAkM2d4EtOdUNbF0T8ccedC-A9_dpV8_afgjq5dIeBg1Bv4S1Sw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=116828",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpd0POF_Alt36RjVApXODUB9No0je62PLpH8sNU_l6Of3WJkJQPVoDGvFqP7D7vrOBbyPVPTEyWc25XhQpifdv8cle0XkE30IegXRsscRLQ2Z8O7A3ME5bWho2mUSptrEXHi-gvJZIFm2HS3pKNZLNRy7xtDHW0pmPFNwcI2WKpzMaQbXPuO2JIs_8L7VblZCsaSyhO1M1sCn8V8r6GWAQMl0wIhZVJ538RusLKeo0fdyAXDVzHGLJLXLdNSRa5te0LCI6Dix-070Z5FLRZCltbpmfiNwe3VkNrLtM5zqZWEfQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=90314",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdRV0phe9Af9YIfN47lBcjrh4yQk91lke-Nbr1g6gt-6QKmmjJ-TEsDiHZbsrOsmjkGNKmzqC-lngA2H_pfXBkZbMAcA7V2xdJUXatIbcKZAau1HRwq-9g2LLF6tGU7u7Uj8m-EUJZEHD-Ct0iKiX2LYmXuPbGpfNAOeBYte8wByDC8FauMdG2inp8hhMrUYEfeydHk5SsibPqMk3SIpIK6k42Zp3eE4OZBRj-uuDipKmu6Gy2XKCygccYeHny4EFUWZ6sPOOn8_5u-oQh1ZFKpQpF5WDDwe9y2EJyi6dS9RA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=35219",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpc-HAzoCqBC3LxWiDof79DecWoeyfj2Gd64e49NJFqd7j-fYDwJ0gXYsrknR9J63H1sWtnMhpBbHo0j932KuEbEw71RmvVgYXWYOGdKRxxV1jzNEVcXcaSMvMQOoooqoXS4py4CDqgIWYdrgpASaFypb9yYs9LsVvA8qnaiTQNEon4otATIb_il-T1zgC-P_az_HTYLsBKNV903Wl85JVlbiiq8CaI_2MVQNKpakek-A2iaxAdsKWi5XUNY3vs24uWKR3EuNhZQp4avGSr4j_yk9ZB4cW0jcvthYLj8keGEkQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=119343",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpee7qlMmluPpP8e5H47R2FPgrZiLUcmBivbhQrxsg4TfUvgdSFqo04RZdRrTNPf1QqkncIAPEcAzYCAm0F2SUPOST9aNo0mUZi3_vuXi66pSVc2d1-o_UjqPp83VxfoCb3aljeElX3CEf1b6FeYESWbFi9odRdQBNz2tPjLmHMjIsaHG-zF-K1gtp9ZEw8QHdUt0zhSsM6ggQ5NqiZedD77ZGlGxM8LOq_xlubIXQGVgX6gmO7eBLwuW0reWH42j8l1JY6VbZuwfnBc8e3Bv9kwLamKRwr-GjaA3vxOLrDxPg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=58591",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfdP2cJeQzshspinxexm_h0xAyqRdlf2-J8XdVRbHEapT8U32jlfHO_hPOR1lYEOlF4XaBHv1aQjWn6-53swVfuTWLrF5uIP2oagNb3ZsULrPmNK0tRDs1gl2Em3UzveN5dLYA5zwlmMR290eWMUyda1cf_HS5YsyVRKMzw42BnPFVHPQumJbKjawJDD8BAyUH0xEYJPXy3KWfq1x9hSanMhiL3AwjeaJsxXMWPUQYfmWlcroi7p94aPOVLm4uXylW2PD8J4kneN7CwDMtAfzO8ietucFVrTA1JcktfBrS8oA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=98810",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpc2OUDqxxRG4OCllYb_pZGZZnQaIKineJXn9g96CzHpTaxpz8eo7KG1AY68b7CZmJm7Ex2meSWexjliGSWN8ZxqfhBb9rgDxocy96loFFVbDEOeZiMOsQYINZWKd7QIezqfqvmHRk3iG9-EcQkBPZIwhl_yk7q_lXvDitQdQjeArjBg8hVfuXDGNxT-pBhQB4qD376ee3dhjNuv1OMLfk84HzFSZ7mcgU0FavgSKGh2jZAzYUBYLkcKrI_rSfwQFn5yliiWT9LC7sq3ezXTcfmCpqBlnJg0Ks5L7HWmsDlSRw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=57991",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdyvaFyKHAvP6HI4AkftOFdNp7gdcbth0luC0oCBGdsQzZKP8SH1NT80oiNDhMF1f_UypFyUYGjXZVvj-unCWzDyE06u_JrOt7gKQQ9_6vSwK4Fux74RXuAUUfUCi7Z5vghq3dGb1f2SeVDDqyPd0vWA_04GoOVDkNJEh-yRuKgI7EEtYnjpvZEw4mls1XO7DQEX3iQfzBwMZLdaT3yqmb1k4ugQ7FTJhz-6a5uGjN-KwVBwQnbwQjkEYRMH3t3t5R7BEjYU_tb56KzFjdv01-eSJJBYi_go_ttA4aKm7BFfA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=25188",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpf6zD17-_MeMyB3b10ng_QA4rv_2418tvczA35B-5cSlBQmmjqscaHllThvCUoOieBkBDjIFASzcxpelpYMjLskY0BnjKMGgQTTgAiG7f1ywMvMmZlM43Igrbf8uUKhzKGnD1mkdn4CVx32XIVJ7EDeu4xNMo0DIO0tuvLvOdVne3nfUNjS7ThdGNj4wRSNKDwHlNt0Y8dqtdemboYZSyN5Vo68D9WUekpXjqA_7ycVx97ZrIXZUO6a8F6QLpyBWVvNDT_VnF65XXJoQtVJxl6sqLIB4X05VHc4O2yTlyMK7Q&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=11352",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeHTnmjsNj9nWs_EHNXGnZK_Vex7MabXn0s5Wh4P7b2vqGvUqgMy9_8niykfJyaoFGfEEzUoFv5XYC0QIEBUQaBsxH1PiXwK8cwBsG9U-l7BAtZ3rWacvaCgxVdPlwhpti-D47sZ6hF3tH3nQ883LeqtM2iA9ripm3v8YJn5kPw2lQGDsgO1CCVyxvvFr5bSBTUYs1StNzKsmkJzlAQeyASxcNiIsCBUjnRx132LFul17rw_NtAZfm6Y1jrSdseqq6ZtZ7NZ3q2t7yKNLilPa5Z0tARJVuznB8j7uxJT0qQ4Q&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=75782"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Richard Ramos",
+        "author_url": "https://www.google.com/maps/contrib/108433508882202362708/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbEq7EBmHb475CrwdaI41ueBou_8aFaIj24rmcTKI3gwQUzas=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "I recently had my roof cleaned by  Loyal Exterior Wash  and I couldn’t be happier with the results. From start to finish, the team was professional, punctual, and incredibly thorough. They used a softwash method that was gentle but extremely effective—my roof looks almost brand new! I appreciated their attention to detail and the care they put into the job. If you’re looking for a trustworthy, high-quality roof cleaning service, I highly recommend Loyal Exterior Wash 🤩👏🏼",
+        "time": 1752919024
+      },
+      {
+        "author_name": "Jennifer Munoz",
+        "author_url": "https://www.google.com/maps/contrib/107485417109944401842/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNNSSwvaawe-kJjMg49J1_eMjGDo79A2BzzBGC8D5D_9eYQ2I=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Thank you Ivan and Miguel for helping me achieved my cleaning goals in my home. They were extremely punctual and detailed oriented the day of my service. I had a very important goal which was to leave my fence looking like new again and my driveways super cleaned , and we were able to accomplish that . It was very easy to book with Ivan . He was extremely professional and respond to my inquire prompt and offered a very affordable quote. I highly recommend them for all your power washing needs. I will use their services soon.  Look at the before and after photos of my fence . I couldn’t believe it :)",
+        "time": 1729369525
+      },
+      {
+        "author_name": "Emily Nelson",
+        "author_url": "https://www.google.com/maps/contrib/113689440255800409655/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDD2IKuMGL703OmRjwc3NA_R54A2Tg4MWAKq1TfAR9yDefxQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "10 months ago",
+        "text": "The team was extremely professional, quick to respond, excited for the job and delivered great results at a great price! I recommend booking them if you’re in the Orlando area. See before and after photos included!",
+        "time": 1727627345
+      },
+      {
+        "author_name": "Maram Abushamma",
+        "author_url": "https://www.google.com/maps/contrib/110455704733486324428/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjQKALkv-zm7mxXhHFzB0aM3pShbTyNGg1KmSwqLG_63Lx-A=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "We had a great experience with loyal exterior wash! Our rood looks great! Thank you",
+        "time": 1746803331
+      },
+      {
+        "author_name": "Brittany Calvanelli",
+        "author_url": "https://www.google.com/maps/contrib/100040337419184429794/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImyLdKBf_CG747YwX84dEJMsAET9RkjN5buLr7ItxAH7WAvQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Hi, this is Judy Calvanelli. I live in MetroWest.\nLast week I had Ivan loyal exterior cleaning to my screen closure. Did a wonderful job very prompt very professional from beginning to end. I would highly recommend him for your cleaning and I plan to have him come to my house about every six months.",
+        "time": 1733808837
+      }
+    ],
+    "recentReviewsText": "★★★★★ Richard Ramos (a week ago): I recently had my roof cleaned by  Loyal Exterior Wash  and I couldn’t be happier with the results. From start to finish, the team was professional, punctual, and incredibly thorough. They used a soft...\n\n★★★★★ Jennifer Munoz (9 months ago): Thank you Ivan and Miguel for helping me achieved my cleaning goals in my home. They were extremely punctual and detailed oriented the day of my service. I had a very important goal which was to leave...\n\n★★★★★ Emily Nelson (10 months ago): The team was extremely professional, quick to respond, excited for the job and delivered great results at a great price! I recommend booking them if you’re in the Orlando area. See before and after ph...\n\n★★★★★ Maram Abushamma (2 months ago): We had a great experience with loyal exterior wash! Our rood looks great! Thank you\n\n★★★★★ Brittany Calvanelli (7 months ago): Hi, this is Judy Calvanelli. I live in MetroWest.\nLast week I had Ivan loyal exterior cleaning to my screen closure. Did a wonderful job very prompt very professional from beginning to end. I would hi...",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "Reliable Pressure PROS",
+    "address": "5558 Force Four Rd, Orlando, FL 32839, United States",
+    "rating": 5,
+    "totalRatings": 157,
+    "status": "Closed",
+    "placeId": "ChIJUdkHBLvPv6ARvBvE4uG_q20",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.4784706,
+    "longitude": -81.3729326,
+    "plusCode": "76WWFJHG+9R",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 924-7562",
+    "internationalPhoneNumber": "+1 407-924-7562",
+    "website": "http://www.reliablepressurepros.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=7902620948044716988",
+    "weekdayText": [
+      "Monday: 8:00 AM – 5:00 PM",
+      "Tuesday: 8:00 AM – 5:00 PM",
+      "Wednesday: 8:00 AM – 5:00 PM",
+      "Thursday: 8:00 AM – 5:00 PM",
+      "Friday: 8:00 AM – 5:00 PM",
+      "Saturday: 8:00 AM – 12:00 PM",
+      "Sunday: Closed"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpd3vCpuJaQASs4H0HPCN50kGtCDHexydaj52-YXff9xQ8ZH82jdTc_JPZK2RB5g1GN2rZu9WJbTeSraGYOyaFRVDmefr0GrS1qXyKPu8_6SAPD6TiHIE8LDw7jO-QT3xVtYoXAIe9eEHFwwpbvd1pes_XFTt7zXNAD5qrwSpa1SPHirsVoDvLy3X_4GORORiS727iO3ZxB2xSK_aY8Ne2cfo-AZpp0qbfXSJMdPGLqrbWFj8GBVAOAsKtMZVny3NQTNk-annc_VCiZBKOiuWMSQqWKQtxzbhPj-4jmfMhJe_A&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=126197",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdtfR4FB4r6PO58lVP3lop-jDU2-EibVfTBpAnhj1J84jIDwTpxeP0sWMMlyO0JEJnOD7TTSfbHabkD-YX7LMZdp200jPobdR0aSKs_f_dbdGpzy2_U1f4IIYRQ9JdeDWExOHsa8rm-QcFoTdSP8x-QuG9TtRf2PvXiDe8OMDjApFP9r-ZJ0q_OsbMpEZ3jD4P2vorU2boYP4MKsnLmYYYppRVKnOa-Odjy9-52o5tpTJjdJIcahTxupBOK177aM6GJfKoI2ggGJ5ERncJBQLuiSE1c9wKFi2I8M98uMH1vsA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=119507",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfmmMFWFYbswha2hKmRuaLoH4XmsoZ7MrnoMcyeNzKs56osgINmCam0vfEc5U9nqGNieYpxY7rOheqDIKx_PIOVKmBSCs8dQA3uMlqbL0ybzwH3SYvtyu88c13aEOSOP2H1_9N8brBugwr1H6C7GzCU--DZCgE5NO9H-qhGywBXDGhLoodX9ZKz5jnl2Gr8Zio-v3OqsUbqpJleJTLyWooQXSInKTMsAfLnw1xgvkUgJ2mk7idUiOOdYSx6FdiShdJi0brdzWEK31njNLQU4QIzmT94HCP8TayX2l8ltvAjHQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=98683",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeGsWQwqVR9_kvR70qmZ8-HMTnz9NZz2CKwosDXCMKZ4NTo5hCwyyE4inrP0gXYEp4mLqO8bytJafb_2h_7fy1OJy5z82Qoqiz6PQB4V9gwuerN39nmOhHslpVRXD56vAZ_XZYQHtV-Nt1ATb3yJD9Ppl1MbV4l_TACoTt4IgGaUw25a9I3jxXYBs0lILpzMKSwsp6DfUjM15wRTRVmWIetXy9lEQD_gPfTILqKKlg7ZIKFH4XGWdWE9V6SDlHmhDFqOnzrmTPlPuFdrwqbGzghrXmrTcbfTFVrE-6S3YiVwA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=111871",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcX0aEQwdmZS3PzWIWjFvRMUtHRukJSm-IYJyrld2EUEu0-IPGlUpOoC0JBfrPu2Qsf7DsE27ExcYSo3FCcUAGkhO5YWrZFqq_7wJYqr1o8Uik61gHLstPI5qbTkJaiBsXicGYtVo2IqOtLrJ8zw2r2Z9_LI-D458Tnhl0IfzysK_Urhgfs5IxtoCvoyxEL9iOBOj9Zqny8tGLzzLYBIkt7DrMN0jCDuJXoiHtKJAsYa5EoWvF3XygEZDAt71PiDdIiEtAqow1_RE4zemkvObnkOiZfUCjd1kKRC2KldPEgCg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=31777",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfHrGbunHkY-f5fWYn9KV9qO8p5SRDiiOfft1X0MqNgd7JAiGMKGuopFJzBjATLZ9NJAnw3mawOAsyZ8GhtUqr-JtPlo0lC6PYqnDm4xH87DqjUPodNMaeJOvzpBGJs_bzw2upfC9bH0wNNaOqGTC8Mysb4X8JuJgqbVWMWHAjwNsaAZpcplARNsnRhnskM4nTyFbXjMb9uxjqPzQbrArfH6wIkR9hTuArYHyP8dYRT1SGgy_4pR306q-NRswYSPdNy0wRyJfy8LwczqupJfTiMD2Crn62CJnHQqFX-NxmUGA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=7844",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeTq5_7FhJeWhhfVtu6S4WZGWRJQKL8pGbmHxnWJhzYiXfvoR-vUNsHxhDe9v9Rg7_Ul3ZK_GX0PssrvXHDjNKCHmt3rZTDhnRY5D-sM9dL7X8ys-rg5dB__ThPiW4qNpIarbCHT9xREwmmmZ_aSt-m6Tcu-AduFWBVP04AzYAtvpQ44B6n91DHFmVGc4qbgYjQhZxLeHCjasvBPGa3-FIIpe_PglTgpD1RfVgIAGfy6QBjQM50jFx_UfiHNwxre-AcUHusZcYnY8544G_CRl3t3IFTPLzBJv23XWPoz0p5FA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=117137",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpexkxR7tD01nHqFdqCab7hFbK8bkD_A25p7-GF7zYh7uoc1Biglv2JIXMEp8sLfYIu4s7BSwDfxUXr0TuglOft9LX4Mwm_CPiFvT4oKQUnlcoXKWS-XMrhnI5HNXq3jsLbEfKVSz_Y_Wlq6n4NDE_IMq3BNbo_tLR6TW-S5p3XTQcr7T4w8Vgjvo2wBZ1x7Du56gSUj9FOJ53LsW7ZqWXTZrjH9BQkKQBqt5ZjtTXtH7sZLMqEjjK7-rnWK2Ntbvv5K33W1uKL-2_88Ol_o4hVrWoje-88BThMzlWAdWgkGJA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=116142",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdjoDJH4yIUqUkaA01Od2siyOD0r64I-GjdrnTzMAa2DX5SStlm4VDfOerqAJqBdtbU__Sxa3Evqu_fytRgFzlopIj_3Kc3tTh0f9NN-DsnNMBXd109-ZuKpsmYXKWbukzj17mT5BTZ7YSKO8t1brO1w0v784Xi4IQNRQGcRjgbS62o1QKQ5pJSAiV7Ww9pMXouKSUNST6KgBXwphxFWqxlDZIGKv3HpZE65KmoD-KuDU0k9nD8o15MS_M5sJJ0eSwmK5P_-ML8VgsuJvPCoVYAyaE36etCf_Lok2IoXzjUTg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=3160",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcnwtuPhQrwl4DipdQ7SsH38l9zA1BUC9XD8AuyCB6BEhrzI-optujxTcoAg_nZg2V0gem7r8ZgPrEN8DETJPMx-HMXSBYnpMdRqoXEIhmFwbrz97Vsnq2RGT-tvYIjSKYvo9XgUe6-7GQN7geLYM5qVGk5abi2IaESBbYkDWZXHbVDxgVAb2Ky_v8bTY-aVZNU4PShmp_i_m1kontNTYyWINDsYvI2gNyLZflm5BwziyTQczk4YHq3ZaO7-29XeePiarzDgJju-DEoPWNmZ162lZhtlX-aCRuVRJkW9e9UjQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=87449"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Jeannine",
+        "author_url": "https://www.google.com/maps/contrib/106053117153800389027/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHqEAGnPcQJEt_yg5mnfOL06UeLsF57aE9l6xomLS-5rzk8nbVQg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Met with the Reliable Crew as they arrived at the property needed a roof wash spot washing some stained sections of the home and driveway and walkways pressure washed; they came completely prepared water tanks and the cleansing chemicals,no water was used from my property 👌and the job was completed in a few hrs time and very professional and polite.",
+        "time": 1743023465
+      },
+      {
+        "author_name": "Sandra Charles",
+        "author_url": "https://www.google.com/maps/contrib/105543607639829437081/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2k-qw77hdhhCs6CkijKUrKeubijBvgaqBQqv9tQvLdJqoGQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "This is my first experience  with Reliable Pressure PROS and I’m very satisified with them  reliable , professional he did a great  job and was on time . I’ll use them again and it’s a family run business .",
+        "time": 1739902286
+      },
+      {
+        "author_name": "Tanya Yoesle",
+        "author_url": "https://www.google.com/maps/contrib/112448155211895646029/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlUwOPyw6cuBoAa4ozUPkCC0ajnJIRb0kPMPV2buL-1j8YOQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Ariel and crew did a fantastic job pressure washing our home.  He took the time to walk us around the house before and after the job was done.  Very professional and on time.  Thanks Ariel and Reliable Pressure PROS!!",
+        "time": 1753127719
+      },
+      {
+        "author_name": "Kim McLeod Lett",
+        "author_url": "https://www.google.com/maps/contrib/104754851703342991496/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmhtF4Qltq7bX4EjFKqPff4U8xVNpdzbkcLJ6WEqtJlLjO3GTZ=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "I just had Reliable Pressure PROS soft clean my roof. Great job! Nice people. I couldn't be more pleased. Give them a call!",
+        "time": 1753466912
+      },
+      {
+        "author_name": "Andreina Rodriguez",
+        "author_url": "https://www.google.com/maps/contrib/105125029222646810960/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAe4tRcgwkIqBPsfNQMXZOnTLIZ9nSscP895Nd8AjeBuW7Qw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "The service was excelente and the team was super professional.\nWe are really happy with the end result, 100% recommended this company!. If you have any questions both office and the team are willing to support you and to clarify any doubt.",
+        "time": 1753315571
+      }
+    ],
+    "recentReviewsText": "★★★★★ Jeannine (4 months ago): Met with the Reliable Crew as they arrived at the property needed a roof wash spot washing some stained sections of the home and driveway and walkways pressure washed; they came completely prepared wa...\n\n★★★★★ Sandra Charles (5 months ago): This is my first experience  with Reliable Pressure PROS and I’m very satisified with them  reliable , professional he did a great  job and was on time . I’ll use them again and it’s a family run busi...\n\n★★★★★ Tanya Yoesle (a week ago): Ariel and crew did a fantastic job pressure washing our home.  He took the time to walk us around the house before and after the job was done.  Very professional and on time.  Thanks Ariel and Reliabl...\n\n★★★★★ Kim McLeod Lett (in the last week): I just had Reliable Pressure PROS soft clean my roof. Great job! Nice people. I couldn't be more pleased. Give them a call!\n\n★★★★★ Andreina Rodriguez (a week ago): The service was excelente and the team was super professional.\nWe are really happy with the end result, 100% recommended this company!. If you have any questions both office and the team are willing t...",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "CleanShield Orlando Pressure Washing",
+    "address": "9100 Dowden Rd, Orlando, FL 32827, United States",
+    "rating": 5,
+    "totalRatings": 15,
+    "status": "Open",
+    "placeId": "ChIJk_aQ3bNj54gRebyCWQ_N8NQ",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.4309055,
+    "longitude": -81.25812119999999,
+    "plusCode": "76WWCPJR+9Q",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(954) 861-7213",
+    "internationalPhoneNumber": "+1 954-861-7213",
+    "website": "https://cleanshield.info/",
+    "googleMapsUrl": "https://maps.google.com/?cid=15343989396261223545",
+    "weekdayText": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfS7ipc-Z25mJrCcfdqXf2Z_kkwXPiOLN-mSz_M-DMAQOksu0NW3QnYRqtiIw3QyR8ZSsk2qbpTOBtrEpEu9AT_oMjjKUQIfX-t4ed9vFXROIPtPMCrXFMSlknEYtxSuBqLuLu7fmYKSWY3dUVI5Vw0A_6j7d6WqS43xOVQiu7Ep7p5oDRutzgxXKI3s3i2fRdeuLUjwjcBysWw-Zj289rSzry-kWUYAa52sHSuiJrN6nu0jm2tr26Krv4hU32UxXc9hUcTQZdfFyHBAaAZuR0bED_autxfsAVsf9oWZHBVKw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=2044"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Rayan Jurdi",
+        "author_url": "https://www.google.com/maps/contrib/118052720654125315430/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKZ4feCdqNf035meQHYvz1CbX6DZscwglTGlm_ubqBL2rzNgg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "They did my windows and pool and they were the best company I’ve ever hired I highly recommend them very professional and great prices as well",
+        "time": 1746038646
+      },
+      {
+        "author_name": "Pedro Rosario",
+        "author_url": "https://www.google.com/maps/contrib/106262724536126097963/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYuJNTLxqwChw7b6WtUV0dM4fK9pDxDJmmGemBuvBaOH-IWGjP=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Great job very happy with the results",
+        "time": 1746038761
+      },
+      {
+        "author_name": "Alijay Torres",
+        "author_url": "https://www.google.com/maps/contrib/106403116570857487816/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKiGIa5_mB3Y8XVL4fq1MeO8oCVusC7z-_nFYKdEXv2lKThcrk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Best in town!",
+        "time": 1746038928
+      },
+      {
+        "author_name": "Wilson Torres",
+        "author_url": "https://www.google.com/maps/contrib/105673396204192569808/reviews",
+        "language": "en-US",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtrNXr3FuonrG8hB57-hO2j6T362U6DWIZWY9sl4J8Tl7nqxk=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent service and professionalism, their work team is highly trained and friendly, I highly recommend their service and attention.\n\nExcellent service and professionalism, their work team is highly trained and cordial, I highly recommend their service and attention.",
+        "time": 1746102592
+      },
+      {
+        "author_name": "Monica Russian",
+        "author_url": "https://www.google.com/maps/contrib/109338030480640109582/reviews",
+        "language": "en-US",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtQEWPp_2ISo9WkntbY0YXMW29mfv3DxE0GIN2Ro_ofu7WMhfQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Excellent services and well recommended 100%",
+        "time": 1746044937
+      }
+    ],
+    "recentReviewsText": "★★★★★ Rayan Jurdi (3 months ago): They did my windows and pool and they were the best company I’ve ever hired I highly recommend them very professional and great prices as well\n\n★★★★★ Pedro Rosario (3 months ago): Great job very happy with the results\n\n★★★★★ Alijay Torres (3 months ago): Best in town!\n\n★★★★★ Wilson Torres (3 months ago): Excellent service and professionalism, their work team is highly trained and friendly, I highly recommend their service and attention.\n\nExcellent service and professionalism, their work team is highly...\n\n★★★★★ Monica Russian (3 months ago): Excellent services and well recommended 100%",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "Harrison's Pressure Washing",
+    "address": "5292 S Orange Blossom Trl, Orlando, FL 32839, United States",
+    "rating": 4.9,
+    "totalRatings": 90,
+    "status": "Closed",
+    "placeId": "ChIJaVLu23J854gRcFR1bFjJINc",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.4838622,
+    "longitude": -81.3973755,
+    "plusCode": "76WWFJM3+G2",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 879-1650",
+    "internationalPhoneNumber": "+1 407-879-1650",
+    "googleMapsUrl": "https://maps.google.com/?cid=15501611299023180912",
+    "weekdayText": [
+      "Monday: 7:00 AM – 8:00 PM",
+      "Tuesday: 7:00 AM – 8:00 PM",
+      "Wednesday: 7:00 AM – 8:00 PM",
+      "Thursday: 7:00 AM – 8:00 PM",
+      "Friday: 7:00 AM – 8:00 PM",
+      "Saturday: 7:00 AM – 8:00 PM",
+      "Sunday: 7:00 AM – 8:00 PM"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpefScKPGZg3l5fsKXRjo-UR2laV3pNrbrFebqwqif7TRFPX6T_fZAC205UVgwPUYJCeL0pbHccTmx53du1yvmFTaHgcb7ynsEVefsFlHaiGp-wgWOSk0kmFKqgpsRFyJSJ2EG2SG360t-9BDhcswxrjF2RiXclV-8b-ZVOviLDaIptsBj-JEDCtf-3iws-i9BHTyjNtaQck1B-IlMAzZZT65xH6XLzuUS7w-ObFqUdQrO960kG_RTynYDaTin8uenSyAXFfk9LmBey32FG91tm6bVVMbXdGtkQJleuVmgsMKg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=69622",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpepdS2bDMxrHdzBBc2Axtld2ZkUJj4x7du5-INYU90K-HKTwj_Ki0iQqKvnerVvQibmWj25zecxi-w8ZO89C2m5Wc3nOeYqIfvcSNXbt0obCecuoxCNBB_JJlISiuE3I8otF8GyPTwVGKv-EGVtzAJSyptb5kOqL6JHemfIURIX5sOSq6A-swgPnLRYvr9WS2nYfexPeTmAh7I_DZKQPQmEtfdAPaspQtEjvlgOycgcoUcNRsAJREXXNHp7O1LDxv6eH74TWcYbJAcdDVFSZerP_TYXFoh7FVNfaoNsEqMF2w&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=34022",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdc_pRHQbTqb_547kVg3DhzkKZLRYFi2u7V3Rne0FVuaaqUJIyu28pCsjHCQpTHbRGViNufgrrh9Wadteicqe4d1ZbuAkA-VzMuS8Qe_Lfc7hrth799wyJ-wpLIsjLmrIHR94uqdJz51-_iLBH46t1l4aChNKYMlHiYXOU-Y5j6OVhOD33vokV8n_VKuYNl0pmqlq_35zRfOxwVwPadxs1MYw16sW97Uo4VKPXO-6UrEifn7dyg2Awj4xAHXk0tXFV6s_yQo7dhd5Gd-YhdyjSA5oE3fKGM0AxbvalX262JWg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=4695",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpd-d0dnocY3d8VjkzwK_sm8X8PZpgYqaTMfXe8Ane2oyEM1Y96js7t5rqtivdd1tcwWwel-Hg8WT9cir90GTwvoBV-TI-HpPl7j-AD5duJ_OsjcXSicf6EmKShYdpDLLdXFjJ7couGscqW72GWossLAYf4wzPE_GEZDZj4WL3RrNtT8KYLuoX9a7nF5uw2QkGb-TKx6VnOM4pCtVXWB8vE4a5yAeLFFwtZwllFTXFcxHyAg7Am-vWHEF4bXGo-2vHeb3Auk_OdGydhJMW115rTUaASZoU8SRuNChClB8WuhSw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=36600",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeyRyFfAxckrTyWLFWicToeeWpKifLWH5H1Kc6nDyf_MWX9Zj36ZUwp2-kTgYD8Q7UFr8lQaHhQgOefr_46BWMvyMx6JtMNfAHC-qXHjuTDU8bChI4wXoMFgQmfiTaqudHQnW_Enwo5SSNkP3ABBqchXfxss1NFGePc8Jg1buFscmbyGCIF556rmitWR58JfsFXlyuJC9DtRb5IVOwG9kHUAXn7jtMub_NpgsnGHIaELPQnFdtD7EIcO0Ko-ud5a24LRlhSSbO5boviyoB_Q2NpB7z59K99vo9hPXKE2w922Q&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=74930",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpemtKastfpB00NNEqI4Vm6i6S_KXFtd8ZiHvKId2BKuNAr2FyZakLinGooN60qOW3-1Z2xU0hDe4Il4i8DQTAXa4vdWc2MZ2rIHCFF00i2nIAYgo82csjZOIbyNUabG8zxTUG0gJsHRBydQ_tElH_Ij0QcfVQyiTQLGsxXuq2jrKc0cYD0pPLbHEB24SIpiciPMn2MEnVOK4bN0KqfCMidS6tqsxSQgbgajJKcpGlpPW63fsRpjqsH95LRvW1oNx8GdSEcnTvvGgV6OX1QiyqHePdyDvXawAp_vDh9cZdSIrg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=122840",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpd1Ldn0dJ_mRv0ZXG3mbTSjKEJYduQMnWbks-QjKitMwgb5Ai_oWXxOwn0Cq1jZlfLwq733-MCPr-1W9MBVIcC9NgcpVE8g7hvHV70LW3xAJX_KhNI7zUqT9D2xXXo6kobOYSlEbQHk_QwD-Jk8_hfUKcXHPgi-yvetCRrUZtGgmCr1fWk2BBCJFDbQ9zspRgxltrf6SNxQQjlTp3b2wA9NgbYJY2Ldigui4eQZU1ygzV3rTg6HEnSiWHa6g1sQxWcjwnZgu3iu1J41rBk_6gaMHtQAI1fsdvQ3hVCkoNK6pL83P5hmAPQQHllvIR26ZKtO9czPhmge6TfRcuD0oi2Hf0IwRQDsMbypAufV3NpS6pY8tX7TkjaUjtWXM46z5GYSq1cNKccziEwPuSQGXh8UVsNKLkO3sLnVr0RFcBUCg5U&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=40822",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpf2V5y-TGWo_BUkSCLy_9inGfIXTpOtjLutuMJPybUd1d5MYhv324iHcDnbgWBBEgOyHs_sY0DaZAUpNY2qiUEf56bUuVNWe302irtHPvPL0xSoNETaJdFD5-xbgZ7TBEhSqgo4GlIHaOHtZtigCKqSo4f9n74EwDx8bYxBfjKpa3-BVcBdETB-PwueOlUjw0LAjmrl36O-LvIdu-Kd7j05qUkfiaYEFefqae1bgUm8HtOc8L2feseMZmc7803Y_a-WEHJktcqioV9sbDBUAyZXZIqRFLuK3jwbFbPSNC5bqQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=104134",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeHjxXSZuew6PyVRMN3pk-qaWSURjn_KMbiiC-iWGVO7LlezrARfvy0Xapyzvo8B1e-z9PAkLre3EOmyaLKIFeIikwvWPln-2m5JkvxrBhRP7-P2L7HI5Ot96GwWBxOGAkjaVrEZv3wO6G9kPJBUF0TyXoDDOg2RNXtl0m5AUhewGA4B0XMt_a0E4h1Mj7srhR5RXWx956pT4butUbSFmJ9ZGa4oy2XG9TLI7M68GdH5PZQ7dZaKYMp2Fth_f1Qr-H2x7___UHSlGjAuVI7YJnMIVySgiOdJLUQLqHNT482pcc9-KgpAwjF4qz-yfwUxxhdb0HE4b0TI11xnNiSm8HzhuRyTOEpPNJCGq1i1W0fVkTM24G0Q7J2iKSmUIlr5Vxn9FASfMPSBKW-qMFHkFoXhGcD-JUwNgrGNbdVmHr0eQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=24039",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeLfRnqpJXEvusDdZ7oV10OR4ggJzKuPueH46T0Qukesr0AN162GsdQETrOYJX9Yc0DWomh_wwkYdle3Lue9ScCdf9QAtpn0qTnmFCrmuM0by0msLzX8kRuXhQKF7YqsERpfLMcGcK9OM94QX9tHEHH57ujlpAll3le0hf6YvpyBx--Ig8SIaj-SMIov1Sr-5QEvaRpwwB3mC-Cy4tAS7EMFskAOTwU3uztMIcXJ6JGM4SNwLHQXpJHRDAZTPmU8TeId3fL6yE3b0IJN8xWzJQdQ1NzhYfK-nVHQBkiWbW79gOrXuAvcr6QImcfHi87_BRTf2BVco_s1e_I8KvuytyF-ud0fzL2fUeLrxOj7Us-hLWJaYY5fZB6989BcOUkU7ivKliev_dZ8Mox8q5UluncQPpy4DMoh4jPNeeJuh5AJA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=60558"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Kenisha K",
+        "author_url": "https://www.google.com/maps/contrib/109270758599557788534/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN82clNt3YUQeUBv8dL0YynQohT91P20D5ytE05sbddki1Ndxz=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Steve was very professional and even gave me information on their current promotion to save money! He is very prompt and professional! I will definitely be using their services in the future!",
+        "time": 1752689920
+      },
+      {
+        "author_name": "Cole Newman",
+        "author_url": "https://www.google.com/maps/contrib/102966299385071671569/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJTP2tyLXfwABjsULhXD90xb7cvejtSUMVNyWnpPUzQ_7fDKg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "⭐️⭐️⭐️⭐️⭐️\nOutstanding Service!\nHarrison’s House Pressure Wash did an amazing job on my home! The exterior looks brand new—clean, bright, and spotless. They were professional, on time, and paid great attention to detail. I really appreciated their care and respect for my property. Highly recommend them to anyone looking for quality pressure washing services!",
+        "time": 1750974755
+      },
+      {
+        "author_name": "Pamela D. Clark",
+        "author_url": "https://www.google.com/maps/contrib/108149983893645908831/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxUKTKQR1Np4mbO84Ij34OG72aKsoLtLxbB-VQpx9UvzmFB40=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "Feeling blessed to have found Steve. He is a very kind man and pricing is the best out there. If you are looking for someone to do some work for you then he's your man. I would definitely hire him again.",
+        "time": 1753287623
+      },
+      {
+        "author_name": "Mitch Thomas",
+        "author_url": "https://www.google.com/maps/contrib/101821960495127938775/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9yaZ_lkQWTyMNfNwTP6hg0LxGXQKGprK5JEHcCPFQhittTbIU=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "5 months ago",
+        "text": "Excellent job, very quick service, good communication - my sidewalk and drive way has never looked this bright!",
+        "time": 1738880433
+      },
+      {
+        "author_name": "David Petty",
+        "author_url": "https://www.google.com/maps/contrib/107718632859691529410/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvb88aC8e0TQc9Cv4_kkkmLhZ8OPcGTKAkWR6N7dMLGAUdUA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "7 months ago",
+        "text": "Needed power washing done on short notice because my daughter was moving out of her place, and Mr. Graham came through, the day after Christmas no less!  My daughter had gotten paint overspray in the driveway.  Of the 3 companies I called, Harrison's Pressure Washing was the only one who was reasonably affordable, guaranteed paint removal, and could do the job on short notice during the Holidays.  Was also thoroughly impressed with the work that Mr. Graham did.  See attached the before and after pictures, it's like the paint was never there and the driveway looks brand new!  I highly recommend Mr. Graham and Harrison's Pressure Washing for any and all of your power washing needs.  You will not beat his price or his excellent customer service when compared to other companies in the area.",
+        "time": 1735481271
+      }
+    ],
+    "recentReviewsText": "★★★★★ Kenisha K (2 weeks ago): Steve was very professional and even gave me information on their current promotion to save money! He is very prompt and professional! I will definitely be using their services in the future!\n\n★★★★★ Cole Newman (a month ago): ⭐️⭐️⭐️⭐️⭐️\nOutstanding Service!\nHarrison’s House Pressure Wash did an amazing job on my home! The exterior looks brand new—clean, bright, and spotless. They were professional, on time, and paid great ...\n\n★★★★★ Pamela D. Clark (a week ago): Feeling blessed to have found Steve. He is a very kind man and pricing is the best out there. If you are looking for someone to do some work for you then he's your man. I would definitely hire him aga...\n\n★★★★★ Mitch Thomas (5 months ago): Excellent job, very quick service, good communication - my sidewalk and drive way has never looked this bright!\n\n★★★★★ David Petty (7 months ago): Needed power washing done on short notice because my daughter was moving out of her place, and Mr. Graham came through, the day after Christmas no less!  My daughter had gotten paint overspray in the ...",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "Pressure Washing Connections",
+    "address": "3852 John Young Pkwy #14, Orlando, FL 32804, United States",
+    "rating": 5,
+    "totalRatings": 20,
+    "status": "Hours unavailable",
+    "placeId": "ChIJdRmbZI1_54gRb3Z_qO3u40w",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.5837261,
+    "longitude": -81.4172511,
+    "plusCode": "76WWHHMM+F3",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 710-2520",
+    "internationalPhoneNumber": "+1 407-710-2520",
+    "website": "https://www.pressurewashingconnections.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=5540534671097427567",
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpecboDMsJIAMr-ZvW11oUR7HVG006FOZR4Az2zIMkUaEvEz7qZ2XWlK_ncS70sItbGOVqwnYcNV0dBY62gdd1KlE9Eim6DIs2bRMjlY4WzdSI9dqBLA4KlFJi58kK3ly6ZXmyLiCGLTegGd9XoBoLraSN-f14tkWa7J8GJHsIpEIm2hZ3buJjQncLlTJFxxcr1hkrQA7nMUdJAQnal566TKuCPVBOcjDSkFrzOf7ew7N5I4cOhHZuIjsInxPaRy4tndLFmj_qBwbeipU5-E5wDYiaE2XSmLKlGREgSYM1TQhw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=119045",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfGdq7bE_rqa5MokoKVsweZ3EvBXen90MyJUnjWyEOrqryV5NwQ4-SgW3A7D05nnzGrE0dK0knnBedxc_65Y_mvlyAr2epRXEyI2sY8WDS6d1x3pts8TfQGJ1nqb-mSMduUds6tWVrCE2GEOatEjC5yZmhUGQUCpW-7j85pHWFqNQwDcaEsOq3Bz1_emCMpHIwTH2Grnqip07o0pYfsMKk6Dy_IBDGCDOiaFlA2Gpk77NpAyBSwizMTlM7WF4oHj8_OlSV3CDJHVQChGYrT1VpQ3D4EiJX9EUVdxlZ8K7LWsg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=11900",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdu6hGrR-lHi8GxahBh3VHbAKLqv2965rAdh4TZiwCFUZ7cqN7GFlLpiRMf5vo0EM-HKedPovR200ruRoWqLEWUuoe6LMVGdr0R54e1R7I1YenP9IBjFgyAPaHQanjLYiJ0wiOeuuBk900I_SYf62FB9PmJTiZYc_leboev3goZLQurXmb6akZW-YWkrlASbiXtVOO7rKJReawVdZiR0Uwd6OlIL8VkCBdqUQ2WiKGdyuQsLbui8SMFZ4UhiKE08O5Uao0V0T4PEZQTEcd24gBzqyfQNCfqRW1PBBcQod0aCw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=88037",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfNIwuBR6BiTUypmzIZx-5-O4pX5hOqrB51iuB8PTEojUbBfLv2vU-8dvDQs-Mg6-SLERV1YQ9r4ejDxmE5A1OfHN6-zdknU9Dec1KOeceD-02c8Gmdss03HgEiW6LvNKT3NdyOL0QhgsHGtZ5yg4s2c0hE-07C2JKP4wpHmgttjAw81-IBwBKgp8_8UqtU3ia7iB-YTEWJ5NObsgxlZ_Wd4l4HRrKlvU0tgiR3MSoyOw6EjGAVX2cTKKeq0eVJnsZoWVZI7tpkGy0ODA73FKV5guyrbqdYBpSDyp4IoyS32Q&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=3532",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfr3ZufDwIKYWKOW17UaJjOXxlPuzFDfcDI-s7dqUuHxVXd2jrxO-zEu6fFlIa3jt5xOSA2pKn5g5imrPqeaRdDrnQkbJoivwQ1Q9eJdkSEK6PXtPcjFlBB7kpGVNu06dESZ-2Z_VFnIdo9lzNwxhGe5ZfY0wZLfgnImNsfBdxBvamzn8xgXeyIU30UjWWdOdW7jmesd3xT7KCGpyXCEF0grtLa77_e18XYXsiz7vWU1An0ih4-sBtytjh55wmmtNvlgBzHQv2X4-zCxFwmOHYaaUljwRs8wO3eIPgBl1w7Gg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=49959",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcJZVrtTyEUGT_mNfpjI1DmAnLrgOev19QlZ-sW_F9eYo8tjwJdxJU2kMsxvuTZewX8ZS6KwhoZLQqduBnmeWox3M_mCWTAHVh2N8l341yAqigmJyo1r9yE9D1zwUYJRJKA-GRfvosO7_Db8ghHEcXk7WG71mVf1_roYZFTtbZAoyvRL8VL52mRNjI040e2hH3PlAEHKgAQopu893L4fGfjNWIYoR3wz1lIpP-kkoZ6-n7op6_RzMYKV-9lhTQJRB0BGkTsotOLcJXAqqt6z70G4o_l9fFRpk_DQGmf75suDQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=109459",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeeeZ5aYmIzzgwIW5dREHMJ06TtESIbKPXS5DMK9j2woa2WAJ3FrEqfZl084H1btNY04BVW9NcZzVOgEE77Hzy4-tZULwf2HM84k-6Rgjv5AO-P70AYqJYaNQd3uUYs0b3dHLWf7NKuYPWKtuXxHL4Gn25dpBK8ru7r22EZhDbvssby46-t_j0arSFOoankEL5TfeB90ZdbHOpShRHn50XQ1DCvvbMRTxBVfOeuPl10RolooOj1ORNIuKwbXl-rZUuWU1TA4Jn_rlHB-z7JO__wWEDaPbly7Ftq47jg_VD9NA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=47850",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfFTnAqXLoZxIdz8awuq6C_FrDmU-O3HqQO5zn0cm5PdCGyFe_QJswZRIcoHq5DULJwDd7dJz8ZuSsDZDg0srgsOdLGxKTkdbFxhf9Z5jg1n2F1o0b6vAfjKavglN0b1EEkPewCpV_oWaOkgBnT9AHFPD8VeDD6kvZ0pmaR6BXIbTUGnk-zcp1A7RHT7yKjNtWznQYfnds_Pla1rE6jzsRg1d8P2D2ngtfG84s-6Zkq4l5BXnsAotpCC7AfSYbGYQ-iD7Y8Jbik0HVP-E7PJTUWiejnMSzBIVuKfqJ73abG9A&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=18108",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdt7EuCwqGYF1aiaLRgDtwKRgENpgXFU1jb5zPgu-Jb8tXN8tjFhNF7WwjXOxBhNzRqcqh8XmCU6VvIaSHkawLZgrV4WiSI7Urts0Gca_AUcYKfyebr4SBR-kwonDi2kXtDD-hFuZ_g6P6S6aAOGugbzFNRBJNDixGk9B3_t3eZE-mEa6dBwgNAQ0oUVKsrbMYITzxYDRJZDqvxjS1CSixvXwC_16YhcdTZgTxvezIXEbukiejVN-NeRzebjJW4beXzzm2Vn9L2mlH7UQZZAQi8P63K-hJUfbTJbDcDrDn1Sg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=89898",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpc10VtkLjpGbwtIHNiowToEEqmf-Ek0q1l4s-PZtQhZEAkqz5sSd58hBz-Gw1YiBw4wumK6K_RDdjLHYvG9698iQT55l_7ZFBsTgpXxMXgUwV36fh0xaDBNmGI8Yh9ZZ0sw5pWwj9vNKZZFSNb27w_R2f8ZDW9S_pJClGduBjbdfLJmA9f4D2vgIsSTsGAWx3NloGHOZAt3B3RrRDire_N23rcbdQosqbDV40j6Ixmjz7_LAP3ZpvOEnWcdok9TXUCHEAdLNvUrIVrK2Vm05rp7Sye3IAg8VXBXIcNQnacLvQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=3798"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Patti Frier",
+        "author_url": "https://www.google.com/maps/contrib/117289459896251605002/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZI22JVE1occv7l6NeiO8ppNrMBbhNXmogsDx1FKMxpp6kOA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "They were extremely responsive and professional. My roof looks great and they took care to move and cover my patio furniture. They contacted me promptly after my inquiry, got me a very reasonable quote, scheduled my service, took the time to answer my questions, and confirmed with me a few days and then day of my appointment. The contract and payment was conveniently online. 10/10 highly recommend",
+        "time": 1622231197
+      },
+      {
+        "author_name": "Mz Waddles",
+        "author_url": "https://www.google.com/maps/contrib/106147762007176551531/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJd0N9MUyqiHDzaOmKGQtc5qBj7jzdDQkF-S9r8Uxy-9gRzrmw=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "This company did a wonderful job cleaning my roof. When done, it looked like a brand new roof. So much so, that i had them clean my driveway too, and it looks brand new. They also made sure i was sat\nisfied with everything before they left. Very nice and  i didnt have to wait weeks for an appointment.",
+        "time": 1651024669
+      },
+      {
+        "author_name": "Lori McElroy",
+        "author_url": "https://www.google.com/maps/contrib/107335999765540607401/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJcGRDzxM_toZ6aVaq3m3OAsRKIeTqsqva9cEuFtta3Udxnqg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Pressure Washing Connections did a great job!  The owner Albert was there the entire time and his two guys Isaiah and Neil made sure everything was done as agreed. The price was fair and they cleaned up before they left.  I will definitely use them again and highly recommend them!",
+        "time": 1618592091
+      },
+      {
+        "author_name": "Nader Maali",
+        "author_url": "https://www.google.com/maps/contrib/115128120974025366271/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-IW8_zCy1LZ37Jw7evQJvZQatzQoGEC2O1qe3_md-yqVTuZJqTg=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "3 years ago",
+        "text": "Neil and his partner did a fantastic job cleaning my roof. Looks like a brand new roof. I definitely would recommend these guys. They responded so quickly with any questions I had! Thanks guys!",
+        "time": 1646256936
+      },
+      {
+        "author_name": "Chris Testerman",
+        "author_url": "https://www.google.com/maps/contrib/112386705973539250917/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJZUuuxASSYtz4fS1NaY2If-q_nabjcjsCBegmzV7wHcF8LWg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "I needed my driveway power washed ASAP and this company was able to get me a quote within the hour and schedule my service within a few days! I’m very happy and will be using them again. Very professional ans efficient.",
+        "time": 1616597375
+      }
+    ],
+    "recentReviewsText": "★★★★★ Patti Frier (4 years ago): They were extremely responsive and professional. My roof looks great and they took care to move and cover my patio furniture. They contacted me promptly after my inquiry, got me a very reasonable quot...\n\n★★★★★ Mz Waddles (3 years ago): This company did a wonderful job cleaning my roof. When done, it looked like a brand new roof. So much so, that i had them clean my driveway too, and it looks brand new. They also made sure i was sat\n...\n\n★★★★★ Lori McElroy (4 years ago): Pressure Washing Connections did a great job!  The owner Albert was there the entire time and his two guys Isaiah and Neil made sure everything was done as agreed. The price was fair and they cleaned ...\n\n★★★★★ Nader Maali (3 years ago): Neil and his partner did a fantastic job cleaning my roof. Looks like a brand new roof. I definitely would recommend these guys. They responded so quickly with any questions I had! Thanks guys!\n\n★★★★★ Chris Testerman (4 years ago): I needed my driveway power washed ASAP and this company was able to get me a quote within the hour and schedule my service within a few days! I’m very happy and will be using them again. Very professi...",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "Magic Touch Pressure Washing",
+    "address": "9048 Summit Centre Way, Orlando, FL 32810, United States",
+    "rating": 5,
+    "totalRatings": 91,
+    "status": "Closed",
+    "placeId": "ChIJ74-kl00r9IYRs0O48FxTBDo",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.6394022,
+    "longitude": -81.4093845,
+    "plusCode": "76WWJHQR+Q6",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(321) 355-9521",
+    "internationalPhoneNumber": "+1 321-355-9521",
+    "website": "https://magictouchpressurewashing.com/",
+    "googleMapsUrl": "https://maps.google.com/?cid=4180558012747367347",
+    "weekdayText": [
+      "Monday: 7:00 AM – 9:00 PM",
+      "Tuesday: 7:00 AM – 9:00 PM",
+      "Wednesday: 7:00 AM – 9:00 PM",
+      "Thursday: 7:00 AM – 9:00 PM",
+      "Friday: 7:00 AM – 9:00 PM",
+      "Saturday: 7:00 AM – 9:00 PM",
+      "Sunday: 7:00 AM – 9:00 PM"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpceWk8_QYhBvvQugm9jksI7GIDHoZH1N2WUOfbSns9O36M--FQmXz8zkXSY6FCtoDW6xcCGEEzEqkbN2nHulGKr912_SfkGjJzFQfAzY1yvWfrRfcLZP49jtPN2Z_SFUOJF19Y6MJOma3usr9inDDCDCsox2FKu5FSROad0uFAs_cPH8JR_kv_yyFMuQyOkN0MqCDdkKXi-k-S4ej3-mkMQYGcmLHD4BHoTPushLBAmptQwynshFROlCqeapTUFOS9iOFB1-FWWpF1-KVd9P6I36YhPAPlj14kXZbS1DuOVlA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=84495",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdu0GeVGUCVzfZ_1hxY_ZgPLYpINkT1SZA6l2jGZZuEJ9aJ1VO1Ip0sB0rBAswfDl2Dz4ffN320AhxiUQyzmhW-kNjhosALtvtbikfygSDsmNAxCe3nbf4OTHPpYRURH2souODc_PWRt9Z5RD2X5742c_d8ouhCnnlV451xEe5P0yDLLMZWSoxBnjYGKUwYkTDPtDObKzL7xbkiQgpBcHfM6p81ORseVUu64L_VRDEShcACpGfjx0m2xQg4YR1-42ciC4HyZ19hpziuBsOXGYTwViETnjr6KQBrweG72EXCKA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=119462",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpe7i_sSR4vMjv-G5ZORKJWrkyhxXKiqHdZ1i9Vy76QBqVzlaqNwnBMpZpRDzKQewkI7u4uffv-ElhomlyniZMmKhOlOHvFYTMqaYDublRUAl_tCzbF8Jf_YftFF6Xc5BamTgs2D5Z1IMTxI0pUn_ueGm_sUX9fBAEiMf090QQr6U8ZfLwBDf3XXsOaDGDfKIxLKBnoREIVXpgEl2MNPfsmvXvlPuEUuoFIjL5Z2PNePFBLyomRuB8gJJHLSLWIo7-lVU7dfH5B6HA9HMp3vCCfoFbnxhIgQYiFzSvumvadz4-QIKLikhSs2k6TjEbSIG3RWSATbzOFggTXBpxg6vUsoXjb7BqjoKjThREfOXmiPr9I6kdu52nlaEt3JPofF53Qi0RGJ-La70YHT7O_5eWd-yFBHPqk3Ab-KH2lI80f5Ow&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=66246",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpefQEUzoC6MA1gBstyes9M8-xl9uPqesbgk0fJuEUrC9F6p7JtvNJmVs99aet6k33i369vWluy6vqRdMadlCGeRaZzwYi4c0U8PSJmXsDu51z6G6x1MvdcZarQqDtfB-hRgX47kmRPevvW4vyNf21hbM9tVdH8y-rsDQwedvVwbKKImHK1kR7DJfC-0YX9v9LD8eu3u3Tyo9gjDGKv9erwCF1Vby7htEUSGNuYbnlGQRssp-3hmOzBHpIiqFucpe_L358972LYQz_tBMZVAi5Fi6u35p6pYwznmv51O2mPowOuUCyRJc6kpCtzPsax13TqisQWY6psYQGS2l3Pf1kna-BqqIF0yghOwhXn_v2vGgE6QoEkCf9IP0Ej4qkhL-b3khSd4PjB_tieemrIhyQY4CAJbZ2gU3M7uf--khjN9OA&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=24541",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpensbmNP5ZItKmeAFuiAqxFx0pony5jl92YjMbVLzteg-CPn4bKRc6bQ_OH4HgVd9L6sWQqfbqRz_fbuCbmXCTTHs_0wjMRbpghFhKsYHgscXeqB8EFuFFN-JzR-7iQqut9_lWghJfg5sB1mOmRbTKV2491Hp9DCpAzI1NfEk-eBq1cG_muPEPgHK1qj5PtG2J_54Dg-sqeh5fSlrUZBYaPtz5VxvFQV2MGVrMYbxecsqot5KMxnmAkvk7IicBgrsdyogrPsRwaxpzLCaIeecuF-c-ScLIW9zLvlw8gg6za6BdjzBa3fRXSCfDZJIY1-MkFOCSFCgXCtljWBNudYLuCF7C3wUK3aOKpYvLhCwWCeD_5UWRSZX0h54yUKyZ11x1OSHNCJ4axTiQaSmvHgb2ZYyZcltu7RRfaew4eDssKPa1g&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=60078",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfUPjm7xf-tKv7dW3My6G9CBQ6sW0SPTEG8lvvcVYBHL2w1AUtRcPsErBSgeCOxJXuICxpyB9cDWkWqy0ak8_ZsU2GZU59pTJ6G4ved4wZvl_ZDI1RgFSswKXmFxfG_IBdLVKtkYDZm0Y1_lY0_oCIaTaiVSV63yaLA0rivKaBvakS6i1_54o4a2bXkAjKniTldZHYCxfIVjOlN3qI9ZPQb0Z1dh6mHeynPP3ARskNbDbpom4c-7XYHllQsu0s1g9z5BqfzsC876uDreuk09rxpx74Cd2MCCD37sTkP0XCCew&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=40996",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfLuj6SrKjGVWek6FO2dreS9Bb1AZ-EhVOuTywz3VOkIoRvtu5iQpnDRCvfk7Rd58ocNvPRloTU-T_4g8bs0mJzMSuk56tEeIqn8h6AcsMTkwSWmaWRhiJKpU0eKAR66w-CgT-_v7WeAOSP7ibD0ImiLmY71_Bld-1tFeL3oJW2XjGrXaWQrZOY45OXr6RX8cElEs0fF4jDxL0n1KjMG3reBSaSzB-8GGqAVAAXFDSZR2cPif17b4y4K2vIoRT6ufwa1kimjBtvLiTbTxgQQMUakqWBUHzFovQeWzHSi5hhGSv_pRId9alRn3ypRTp6LjZp2_-ikFHm1kt8urDmgz30FufoaFRPmCaMhYsXM0MazDzx9x-SaJip22kViyoO6pG8VONxoWipPDVtzKYA5KjJP6thsRzy0Dqc9zSbpEsbHrc&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=122745",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcWSIwiRaj962rY_FRZTPmm9Zad2PuHHvgLRibphnkrfV0V_XBFsO5I3wXJV4NRTuypu9QMMh5F4LMDUJGU0bsDq68LrXmptMAjIhgkTE08KFJX9xDEovFz35zj29s_KG2GhbCPbE0xpqX6k3reCBYkKiYiQvZr7hRzeXDTkop2uZ0Rg2AzVyASBATqaLpV9Oc88tYwCWKoFvUUwx4fAVQKncrNxXQKLLNQlEkXbFsej0SNZvqHsWwEb4ly3vmo9ULLp2hKZLNKECIX5QCHp2uWmbqxouA7yNeBN4D9pMgMZ8QN_JO1UQpaR0Jv2O42Virms5_Ggi0k4IEVT1Knv9MbCX7nXhPt6L-SVbKwAYOSFL2jdD4YJWQNDPb-E58N1GQSwX5-7LhHLm4t12O6fiau_7JfntsKViTyah-wwNv8Qg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=36578",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfb8NppbNm4Cmtq9_HHp6sAVCWf3hhH1ZcOIa3o3BmRwmxiWcyp3aYL7IzBztbJ9iCF8pAUVndzeERQR5wy73mJuIW3TFsUWkGyKMwCIGy04UWCFb9PConK5QGk6rqj1oy_UFqWxZgazipLbyEkMv-1eyPT9WYbAtzOnrRrpP7Qpg2ifBbKUVhZgcViJHtNqmdWCDhV0YgSzki7uMhpZ-rlnD0IzlJxusxiIEZ97wXTXsANqFv-7uusKJP8NmX0NJlAnWdWLC2ZJ3fssWNhbPjkxe8llqVtzI4IzmAQhXVPIGOrCb4RL2fkys6t_nkrOnn0W6P7yOB866t53pk3yLgTxRmunRI3tF54bywmysYjxAj-R8pUk3VQYVrCKVUvjhsR1Sb6WZOypCOixgCYEn-3-oZM1KVwyqMFdyreniU&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=110713",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcsj9szEo8pUUk8WpEcesEp3JrnM9JeSiV_eyz8AxoJGgaSpzilfzRCy9-FKU4QnKsUmYN8Y2XwSPyULt96CbSn6AnhdOyOOkT1C6qn3m8JUamPIhAv-NEpyOZwidevTdEZV5qVq4CzPqEBs-IYTlXQaQj9PkveiScBa1C0kIfrv369QvnGk5dVryhNes6cWd8xw9lSEN9fFqTNwXcDGi_HgzyvJYL7zRrwur3ttpP0ERceZ9bAt6rTxUD9q6B8X3nCsEqHtuqGw0XpEdOvjCBgFOdk2oPdFcTw2c_vo4lb_Bmxf5qgXl0zXuKVnO3jtBmKw2izDKlsUiJ9HLvo0oA8tPuGO0VWPx21LiOLmtMgu-SSZzAdvgwRIF3HqdT4ftiGmNlzLfhBZH5imPD0rS-mO2A_mFB6hqeaYcwHlKIh9wI&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=45832"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "dwight spoerry",
+        "author_url": "https://www.google.com/maps/contrib/108914731050279006732/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL8GB7VqZWJQOIkUChuzmoKXHBmKQ0REyx4LwUepV3ME8y8=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "We just had our office building's side walks and loading zone area pressured washed by Magic Touch . They came out the day I called them to get an estimate and since we needed the work to be done as soon as possible, they were able to complete it the very next day.  Very nice, professional people to work with and they did a very good job at a very reasonable charge.  I found out that they also do soft wash chemical cleaning and clean gutters.  When it is time for us to have this done, they will be the first company I call to get an estimate.",
+        "time": 1753466409
+      },
+      {
+        "author_name": "Monica Joseph",
+        "author_url": "https://www.google.com/maps/contrib/101045560916060925257/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwvhbDte8QPDBvdxumdBeXrkLsAP71QfpiXv7BE4AYmR5LWg=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Best pressure washing company in Orlando hands down!\n\nI’ve used multiple companies in my past but I think I’ve found a home with magic touch pressure washing lol, Great pricing , open availability & outstanding work I couldn’t ask for more… Greatly appreciated these guys for the work they did on my property",
+        "time": 1752625084
+      },
+      {
+        "author_name": "S_Prunella M",
+        "author_url": "https://www.google.com/maps/contrib/109074268232450262421/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7hz-yZ1905v0KO-HQZKKbK6uwnBsBY248c0VkWkXujN_kxw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "9 months ago",
+        "text": "Thank you, Magic Touch. My house and roof have never looked better. Trevean was professional, punctual, and went above and beyond. I will definitely use Magic Touch again.",
+        "time": 1728603502
+      },
+      {
+        "author_name": "David Reyes",
+        "author_url": "https://www.google.com/maps/contrib/109704678563194695808/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpw1zuiSSpyElYWQEtisly0rRkpiRsiVYG7tdwrYhQicc5IA=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "Magic Touch/Trevean was very professional and well spoken. He cleaned our roof and solar panels. Great value with great work and will be using his services for my driveway. Thank you Trevean! 🙏",
+        "time": 1745074202
+      },
+      {
+        "author_name": "Will Weatherford",
+        "author_url": "https://www.google.com/maps/contrib/100852488413533404121/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-TtJHy__EczzGw6ZAFPN72_USEJtBzyiXpGO72G3YQI8ktw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "Great service and attention to our property and neighbors! Highly recommend if you need PW services that last.",
+        "time": 1746552088
+      }
+    ],
+    "recentReviewsText": "★★★★★ dwight spoerry (in the last week): We just had our office building's side walks and loading zone area pressured washed by Magic Touch . They came out the day I called them to get an estimate and since we needed the work to be done as s...\n\n★★★★★ Monica Joseph (2 weeks ago): Best pressure washing company in Orlando hands down!\n\nI’ve used multiple companies in my past but I think I’ve found a home with magic touch pressure washing lol, Great pricing , open availability & o...\n\n★★★★★ S_Prunella M (9 months ago): Thank you, Magic Touch. My house and roof have never looked better. Trevean was professional, punctual, and went above and beyond. I will definitely use Magic Touch again.\n\n★★★★★ David Reyes (3 months ago): Magic Touch/Trevean was very professional and well spoken. He cleaned our roof and solar panels. Great value with great work and will be using his services for my driveway. Thank you Trevean! 🙏\n\n★★★★★ Will Weatherford (2 months ago): Great service and attention to our property and neighbors! Highly recommend if you need PW services that last.",
+    "averageRecentRating": 5
+  },
+  {
+    "name": "TRT Home Services",
+    "address": "7111 Grand National Dr Suite 103, Orlando, FL 32819, United States",
+    "rating": 4.9,
+    "totalRatings": 758,
+    "status": "Closed",
+    "placeId": "ChIJWRoWrs6A3YgRYJdBf76NXus",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "latitude": 28.4598333,
+    "longitude": -81.45482059999999,
+    "plusCode": "76WWFG5W+W3",
+    "businessStatus": "OPERATIONAL",
+    "priceLevelText": "Unknown",
+    "phoneNumber": "(407) 630-9380",
+    "internationalPhoneNumber": "+1 407-630-9380",
+    "website": "https://trtcleans.com/?utm_source=gmb&utm_medium=organic&utm_campaign=Orlando",
+    "googleMapsUrl": "https://maps.google.com/?cid=16960149096042174304",
+    "weekdayText": [
+      "Monday: 9:00 AM – 4:30 PM",
+      "Tuesday: 9:00 AM – 4:30 PM",
+      "Wednesday: 9:00 AM – 4:30 PM",
+      "Thursday: 9:00 AM – 4:30 PM",
+      "Friday: 9:00 AM – 4:30 PM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ],
+    "photoUrls": [
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfjT-osHPUcL3PDKAyOQV-tBGTlCXjwOxm3JzyeyLQx6ODfz8xbmE9Grs6pu0AFsF1ik6sLZVekY7osfNXGFsuqVyo1jqAFVwYD_TGiOtDx5Eu5zC5aoN9DFEV3BzRUXnsDs1gU3f61mS6qvtqMlF3d6w6LOlqhn2xB0vW_dkoWa-HRC7fqSXvOg7Tmzq61OANHcO1BRpOjUYz2aPqYtGnV3T0TEUvWNU925vMWcOWi_RffZ3aGvBCP7Ve8qKnFEIrvUJ9ieGkTUKxRB2UtcnYPtwX2RV7mX3RElTcKzH6epw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=35342",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpdy3BPL-jLFv5JRJOF5kaSd5kIUWVXqi3Je1bjmOMzKORLgO07HKvFQudfu-OdH-Xe6wNmH9ERuVa5CLW_Rl2J8aI6OzKSTY-ERKVI6-IpSbshXlOGmSzH-YzYRtgD7RmAw7EEEKLGCLdjIWipvIWraHPvhI_X9kas5S4bL9FYBT6Lp4DynLwYULBkGB1Fq_1urFA7TMCPUc3z-HOmj_2z7JGcSrlvy50rhL1XW1c0kAoE-ikgycWuei0m1kdVtyUL0vDUEa16PrcaFStvFo_cmZ1nSz_kYk7gnhXUIADaf8g&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=31578",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfIZalgAeDdyiBmlwI6yUi6cmOi3y_ZMFvoY-atftlu3ZQ9JFTrxP4RqR1V1j4AtFyLGeItixpE8vUfR84H7cYnpZE115Z8EH53qtxB1M6iJRA2EdEzo9qOVS7E4j7oxW75o35CpnVAOBqOEAqlJaXfDSmAD4RBCU3NwhimabHp7sMBisFLCfrubvokKHFhRjZyO2dv8k1sqFn_6mcRJTM6oyLDy5qT5xBsC-sewOBW7NxxzQgOjWehTLmMu1GvcVC8nnAXP_3O-vdxlFo7CKCf7-5PMDRfxG96LqsXt9U3JQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=44094",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpc8iD0GrpYhA9l1vK-qbMdm3Suy4ZUsNO5pr3JSzpIpn5eGqXw-VWvG5hfeysnixH6A7B5dB-tJAgZqamRzBS5J-wrXPr9rsqUBbbWrhulmt60nIgFoP9IaDpU7RE2wjM3dDfqLbFjoXuQzKdS4t4A95ot3SycYkiC7szYux_YQ1vcgeKSxEyQ_mvuje4rpAyTJrHZuFMWSqJgIxLytvVw9Imz33E7eMVRqu2v-JCi_FVpwOD4FUAvJy9-n4QeO6W9fjnT8pZ9mC_0RpPA6bDafPCSb2vcXQaM_pbSnvteGuw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=80159",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpd29JqWrj9I2jPwTF36pG6Wv8gaC3GU1nxIL9P_Wq0oYwoxrFzsFqJlal6JRBj_WmgGVIxT0I2zAw8AvLLV8ERJhOwbOUfbJLdKvX33IvxaqQDq9mk_h6UjhfPLZwT1RHz69-hVjzbFfAcwglzrew1LXCcW6cXVqgUdGvS_RnnEIQUJ1V_IwLsPdrC6qqLNLy4RCrAHc-Z_VXaESx8pO4-9hG6sCdz8Hz9bK5aDZioMH56xDLtSZ9eIdiBE1bd9IVhKUK9XuZ0p2qoFITtras4As7rPIFhJ-V2nCxk37dY3VQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=93044",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpeAAYVB3bK9eYfLZmCBrFrp1CpVw4GvFWKoVZlLfdA-L5lq4s7WzAU-lzb_SacPwJRd8TtoEnpFTGsp9rGuHzg0NGxu64L0J6qFVXqajA9H9zQTvTazrme45RpHdVWW1fmD8-Pn3E3wjUlr52gzzuC4-Ts435LfdsJlrVNx2Qucz9e-wCrtC0pEO859L3zZBhJU3SPxkTpWTSXmBG6MDetxsIskI3rxCazhDMOf4xW_Zmp88hRTgS36V9nR4Ob_ciy7RW_o3CFFW9dx7cZQWJ2_wnmYEBVqPA6mb654_xO7Zw&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=109690",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpctAQVvxU6clQwXItoWsH2XpaYlcP8OF7lma8zt0neKOIbd4vdd6NacybMqCkNwqjoqM5Lf6LIp6HPBLqK9Pu-6O0JDDK6cU_0scdjWuIGhNyvwLi3FZUcOOVVJovsxXRetv5vQGHtqxjIUrAc79uxVCU1H8qZP17Z_pHfO0XuhEh_JqMfN9T8rNn4AqXic-ru3DtlAFErEeeJHEzXYwJTgsgfH4orCgg6zyri-Bjna5MLtV2thy6B_4UBnoWZHiw80OSbVDsGpb92M04ZuTUzRG0YwSijVk9xKYeHvWipLSQ&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=10390",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpfe78ydvweqcWiZRvPbGRPLh-jK3iv3I2obN3NOrGhHZbfkoHCdg9J_xCTlcXSwUrJh5iPlqVnrqwWvlAY_ATTQYGWc6is4oqMMLyEIc3x0MW327uZM-eq-jyM-j6hHMaG2dG8ROY9ejs5cjbcrlFvtONa_c7YyjtEPWF22Rk7pps-7sdW1tt16GEifOSSy0mpSBhW0Cb0LLXrHLh7ZmUTt24YQ6j_oU1Z3jILHHRdO5-rKnwg9v-pggTOtIzuvKKmc6rgPioR798UaPphigi4bv-Am2CrjCc2F_ByX5p8w1g&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=21305",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpcPhYNGpnD6SLXyHXpAFjWi92f2wmoIISHd3A0UtBSrG_wETGWKFRdXUE-jipSPsnfLyqYgAZNmVvicxOf7f_1QMa2xNt-h0gpfjCHRmVsjsHAo8IVYG4I0sV9Z8CqGb_ZLmoZTUPbnbQ1-cj8Ya1HjKh1qKl2DkcyySsS23qtAKaHW6E1YL-XljBweWKghUqgO77afbsr-Zgkx5MgBfSBpEPI1i88tSWD_48ITMsWy7jz2xmnKi2Sd89k6k1O3DdZ7M3hKBDCLyShsIDYby1EAQPXv8-y3PuQSJAEAKxEjlg&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=57331",
+      "https://maps.googleapis.com/maps/api/place/js/PhotoService.GetPhoto?1sATKogpd0O2d4-a2Ng2nah9Zo2VKWIFsxl2Jn9sQ4_zNvow8pjyDmNRxy57VVWHa0jpOpU7Bryy3lElcsAzqoK6xAbUzhQI99v73XuwdzVTcH9ri8PwTy0z7OvRFkRafKG7e35wuLfxZWqZKsCd-SdOszRKzuKnutoEIcNkszOf5b0-tjSgMRfxxSpaYW-GkBj6krJRdxAGibxbj783-hxjVLHdi3faS9b4YZsEKWACZg1mD42GhHbekC79WUaPMBOrNYGBh2PhlqaqHJRuuV3rJELs-p2_j6N0nJV3XRppjiNd_E4g&3u800&5m1&2e1&callback=none&r_url=http%3A%2F%2Flocalhost%3A3000%2F&key=AIzaSyB-kl4FwEBDnULVS-5FzgqmOILaHs5AETc&token=14246"
+    ],
+    "iconUrl": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "reviews": [
+      {
+        "author_name": "Tehani Batani",
+        "author_url": "https://www.google.com/maps/contrib/101409518555554022881/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI-YgCSMGA6cevEDKv7CdIEZt0IN5fg7IeO0v_TEDDLuwxikQ=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "3 months ago",
+        "text": "5 Stars - Exceptional Roof Cleaning Services\nTRT Home Services did an excellent job cleaning our roof. From start to finish, they were professional, punctual, and thorough. Their communication and customer service were top-notch. They kept us informed and made sure we were completely satisfied with their work. Our roof looks brand new again! We highly recommend TRT Homes Services for anyone looking for quality work and outstanding service.",
+        "time": 1744127259
+      },
+      {
+        "author_name": "John Lombardo",
+        "author_url": "https://www.google.com/maps/contrib/107261932486581680045/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEyQoy7zVSPfMs15RiXvYPeZn6CixikgPUVjS2pfCGxWl1nw=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 years ago",
+        "text": "Josh did a phenomenal job. He was responsive and communicated with me throughout the process. I am pleased beyond words. The price was exceptional and the quality of the work was second to none. Absolutely amazing! TRT is now my go to resource for my exterior power washing needs.",
+        "time": 1683583470
+      },
+      {
+        "author_name": "Valerie Huban",
+        "author_url": "https://www.google.com/maps/contrib/102592338114331954285/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXtr5x31f5VTjHGdRk7RpXv-FWJnvKKmVNGK5oEPKamM_htq6et=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "Exceptional service! Prompt and courteous from the first inquiry to job completion. Reasonable rates for the service provided. Crews are knowledgeable and hard working. Would definitely use them for future projects.",
+        "time": 1749755928
+      },
+      {
+        "author_name": "Eileen Fraser",
+        "author_url": "https://www.google.com/maps/contrib/111018441281760677285/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGeQIDTZm9T6o6HsW6SbGZImAftudqwT9Hux1Wsa6veULq_JhFEg=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 months ago",
+        "text": "I can’t say enough about TRT Home Services. I couldn’t be happier from my initial meeting with Caleb, to my communication with Melissa, & the actual service performed by Ricardo. They were so very professional, courteous, & helpful. I highly recommend this company!",
+        "time": 1747430320
+      },
+      {
+        "author_name": "ivan cavalcante",
+        "author_url": "https://www.google.com/maps/contrib/118029970060131252143/reviews",
+        "language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXod99cVHffId5mAYzHInUQqBJ8j0vB8yX13HhqC6XelQ9p_MJa=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "I've recently hired TRT Home Services to clean a roof in the Hunters Creek area in Orlando, no wonder they have  lots of 5 star reviews , impeccable work , excellent and  very friendly customer service , I will  definitely add another 5 star review .",
+        "time": 1742500565
+      }
+    ],
+    "recentReviewsText": "★★★★★ Tehani Batani (3 months ago): 5 Stars - Exceptional Roof Cleaning Services\nTRT Home Services did an excellent job cleaning our roof. From start to finish, they were professional, punctual, and thorough. Their communication and cus...\n\n★★★★★ John Lombardo (2 years ago): Josh did a phenomenal job. He was responsive and communicated with me throughout the process. I am pleased beyond words. The price was exceptional and the quality of the work was second to none. Absol...\n\n★★★★★ Valerie Huban (a month ago): Exceptional service! Prompt and courteous from the first inquiry to job completion. Reasonable rates for the service provided. Crews are knowledgeable and hard working. Would definitely use them for f...\n\n★★★★★ Eileen Fraser (2 months ago): I can’t say enough about TRT Home Services. I couldn’t be happier from my initial meeting with Caleb, to my communication with Melissa, & the actual service performed by Ricardo. They were so very pro...\n\n★★★★★ ivan cavalcante (4 months ago): I've recently hired TRT Home Services to clean a roof in the Hunters Creek area in Orlando, no wonder they have  lots of 5 star reviews , impeccable work , excellent and  very friendly customer servic...",
+    "averageRecentRating": 5
+  }
+]
